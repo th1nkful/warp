@@ -1,0 +1,27 @@
+app/src/terminal/grid_renderer.rs
+  s_7a970c81013f86::t_5e478a341b8e55 312-316
+specs/GH6393/tech.md
+  s_7a970c81013f86::t_b0dddeaf9a8045 180-181
+crates/integration/src/test/osc8_hyperlinks.rs
+  s_7a970c81013f86::t_42bb45a7744a02 41-46
+  s_7a970c81013f86::t_ff7a6204bfa327 47
+app/src/terminal/block_list_element.rs
+  s_7a970c81013f86::t_53bcbcb54b796b 2543-2545
+  s_7a970c81013f86::t_b33f0a7e69662f 2600-2602
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "52d4543a84e516a0d3f245506d4c00b4b3a26c30",
+  "prompts": {},
+  "sessions": {
+    "s_7a970c81013f86": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20edfb8c-ccc1-47e4-98b6-09669835f013",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
