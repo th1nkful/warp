@@ -1,0 +1,19 @@
+app/src/terminal/model/grid/grid_handler_tests.rs
+  s_4f4e5aa8e98c4d::t_519bfb370f9e83 2314-2440
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "4e923d3d90a0ec07e341a7e6fb11d0e9a5199bc6",
+  "prompts": {},
+  "sessions": {
+    "s_4f4e5aa8e98c4d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d72f42ee-21e0-4e43-b89d-34a3e338665d",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
