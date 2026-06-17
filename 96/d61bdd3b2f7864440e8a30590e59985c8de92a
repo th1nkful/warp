@@ -1,0 +1,19 @@
+crates/integration/tests/integration/ui_tests.rs
+  s_48a6810d52bfff::t_e99888713427df 214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "96d61bdd3b2f7864440e8a30590e59985c8de92a",
+  "prompts": {},
+  "sessions": {
+    "s_48a6810d52bfff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2975d755-53e9-46b4-8114-997876d30a15",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
