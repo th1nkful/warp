@@ -1,0 +1,19 @@
+crates/integration/src/test/osc8_hyperlinks.rs
+  s_48a6810d52bfff::t_92e0c5ff8559d6 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "3dd126eb1c762f7e552fe7b187a32f2216b9db9e",
+  "prompts": {},
+  "sessions": {
+    "s_48a6810d52bfff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2975d755-53e9-46b4-8114-997876d30a15",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
