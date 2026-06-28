@@ -1,0 +1,61 @@
+app/src/terminal/model/grid/ansi_handler.rs
+  s_48a6810d52bfff::t_2a220daf1ead2b 165-166
+app/src/terminal/model/ansi/handler.rs
+  s_48a6810d52bfff::t_188a8d259b62ee 249-250
+app/Cargo.toml
+  s_48a6810d52bfff::t_3987403f6f93c8 971
+crates/integration/src/bin/integration.rs
+  s_48a6810d52bfff::t_de3145bd0c48e9 350
+app/src/features.rs
+  s_48a6810d52bfff::t_9c507a66a13a84 494-495
+crates/warp_terminal/src/model/grid/flat_storage/hyperlink.rs
+  s_48a6810d52bfff::t_7b9540536cb087 10
+app/src/terminal/model/grid/grid_handler.rs
+  s_48a6810d52bfff::t_9ee4877ea33c86 835-836,843-845
+  s_48a6810d52bfff::t_2f547e287d633c 360-362
+  s_48a6810d52bfff::t_f444cbe426fa20 33
+  s_48a6810d52bfff::t_9ac207ff8f3b88 363
+  s_48a6810d52bfff::t_b07291fdac0053 892-894
+  s_48a6810d52bfff::t_ba456c74a701ed 356
+app/src/terminal/model/grid/grid_handler_tests.rs
+  s_48a6810d52bfff::t_bbe1426e4e2b81 2348-2355
+  s_48a6810d52bfff::t_bb244d8aa67185 2314-2347,2356-2414
+app/src/terminal/model/blocks.rs
+  s_48a6810d52bfff::t_b5d4941b0337ac 3439
+app/src/terminal/model/ansi/mod_tests.rs
+  s_48a6810d52bfff::t_0ada69b88df65b 856,858,862-865
+app/src/terminal/model/block.rs
+  s_48a6810d52bfff::t_08e46e056b09d3 2980
+app/src/terminal/model/blockgrid.rs
+  s_48a6810d52bfff::t_f6e176abdef2e0 726
+crates/integration/src/test/osc8_hyperlinks.rs
+  s_48a6810d52bfff::t_0b7bb97a3fa4cd 39-41
+  s_48a6810d52bfff::t_eb3ce7499278fd 180-233
+crates/warp_features/src/lib.rs
+  s_48a6810d52bfff::t_4cdfb2e36303a6 189
+crates/warp_terminal/src/model/grid/hyperlink_registry.rs
+  s_48a6810d52bfff::t_d60d6b7bda13f6 45-46
+crates/integration/tests/integration/ui_tests.rs
+  s_48a6810d52bfff::t_97fa9f50271ffd 215
+crates/warp_terminal/src/model/ansi/control_sequence_parameters.rs
+  s_48a6810d52bfff::t_99c2ae0d72e70a 798-799,801-810
+  s_48a6810d52bfff::t_b6b9ca4d8305e2 711-713,716-717
+  s_48a6810d52bfff::t_bbe1426e4e2b81 884
+  s_48a6810d52bfff::t_b706e2b29b4c26 881-883,885-894
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "aa0231de9a8a4d3dac10fa8a7ee8c3d2458fd345",
+  "prompts": {},
+  "sessions": {
+    "s_48a6810d52bfff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2975d755-53e9-46b4-8114-997876d30a15",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
