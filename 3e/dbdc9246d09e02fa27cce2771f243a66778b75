@@ -1,0 +1,25 @@
+.agents/skills/review-pr/scripts/resolve_spec_context.py
+  s_48a6810d52bfff::t_63fecf1658007b 1-723
+.agents/skills/review-pr/scripts/validate_review_json.py
+  s_48a6810d52bfff::t_63fecf1658007b 1-348
+app/src/terminal/view/link_detection.rs
+  s_48a6810d52bfff::t_d57d7de4ad9f83 358-359,361-366,368-369
+.agents/skills/review-pr/SKILL.md
+  s_48a6810d52bfff::t_ad8ff7694530b3 1-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "3edbdc9246d09e02fa27cce2771f243a66778b75",
+  "prompts": {},
+  "sessions": {
+    "s_48a6810d52bfff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2975d755-53e9-46b4-8114-997876d30a15",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
