@@ -1,0 +1,21 @@
+crates/warp_terminal/src/model/grid/hyperlink_registry.rs
+  s_48a6810d52bfff::t_72cde4e81011c1 115-116
+crates/warp_terminal/src/model/grid/hyperlink_registry_tests.rs
+  s_48a6810d52bfff::t_0696ab0400a76b 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "cae8bd3276cdfcdd31ceee1c221e135b8942b078",
+  "prompts": {},
+  "sessions": {
+    "s_48a6810d52bfff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2975d755-53e9-46b4-8114-997876d30a15",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
