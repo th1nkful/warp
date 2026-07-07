@@ -1,0 +1,21 @@
+app/src/terminal/model/grid/ansi_handler.rs
+  s_2be5519e899136::t_59134a224ac5a8 858-860,863-871
+app/src/terminal/model/grid/grid_handler_tests.rs
+  s_2be5519e899136::t_b90bd386315547 2639-2663
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "df5934aa487c6e6d17e5634e488efad1e7cc5fc5",
+  "prompts": {},
+  "sessions": {
+    "s_2be5519e899136": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "902571da-d710-4130-b8f6-9851aff7fb3f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
