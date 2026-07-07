@@ -1,0 +1,19 @@
+app/src/terminal/view/link_detection.rs
+  s_2be5519e899136::t_f2bdeded5693d4 477
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "561fadcff0086e2e594a7960f48045cfa211e9f8",
+  "prompts": {},
+  "sessions": {
+    "s_2be5519e899136": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "902571da-d710-4130-b8f6-9851aff7fb3f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
