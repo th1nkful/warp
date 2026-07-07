@@ -1,0 +1,19 @@
+app/src/terminal/view/tooltips.rs
+  s_2be5519e899136::t_168ff977ce6962 232-238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7844c4260a1c1df7e68af48606888f71af42c817",
+  "prompts": {},
+  "sessions": {
+    "s_2be5519e899136": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "902571da-d710-4130-b8f6-9851aff7fb3f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
