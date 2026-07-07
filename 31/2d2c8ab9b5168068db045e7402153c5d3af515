@@ -1,0 +1,21 @@
+crates/warp_terminal/src/model/grid/flat_storage/row_iterator.rs
+  s_2be5519e899136::t_db2189ae570adb 132-134,138
+crates/warp_terminal/src/model/grid/flat_storage/mod_tests.rs
+  s_2be5519e899136::t_59218ebd597e49 278-354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "312d2c8ab9b5168068db045e7402153c5d3af515",
+  "prompts": {},
+  "sessions": {
+    "s_2be5519e899136": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "902571da-d710-4130-b8f6-9851aff7fb3f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
