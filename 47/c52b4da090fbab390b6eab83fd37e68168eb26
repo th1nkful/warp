@@ -1,0 +1,1673 @@
+.agents/skills/add-feature-flag/SKILL.md
+  s_2be5519e899136::t_3419f89d275630 14-16
+.agents/skills/gui-create-launch-modal/SKILL.md
+  s_2be5519e899136::t_175c75c7c11f40 2-3,6-8
+.agents/skills/gui-integration-test/SKILL.md
+  s_2be5519e899136::t_a2369a86637182 2-3,8-9,348
+.agents/skills/gui-onboarding-verification-skill/SKILL.md
+  s_2be5519e899136::t_b783a4ac6968f6 2-3,8-9
+.agents/skills/gui-reproduce-bug-report-local/SKILL.md
+  s_2be5519e899136::t_0dba99fbd34267 2,5,10-11
+.agents/skills/gui-ui-guidelines/SKILL.md
+  s_2be5519e899136::t_9958fe83f4211f 2-3,6-8
+.agents/skills/logging-and-error-reporting/SKILL.md
+  s_2be5519e899136::t_ef558a36ff4ea6 1-226
+.agents/skills/promote-feature/SKILL.md
+  s_2be5519e899136::t_ad8e6486646abb 18-20
+.agents/skills/remove-feature-flag/SKILL.md
+  s_2be5519e899136::t_2e52c03dc87be1 82,84,125,127-129,143-144,147
+.agents/skills/review-pr-local/SKILL.md
+  s_2be5519e899136::t_6c6a16e7647831 24,41
+.agents/skills/rust-unit-tests/SKILL.md
+  s_2be5519e899136::t_eec71e6b4a55e3 63-65
+.agents/skills/tui-testing/SKILL.md
+  s_2be5519e899136::t_e9eb8446269369 1-98
+.agents/skills/tui-ui-guidelines/SKILL.md
+  s_2be5519e899136::t_bc1856aa9b5f73 1-83
+.agents/skills/tui-verify-change/SKILL.md
+  s_2be5519e899136::t_50700cf2134183 1-320
+.github/STAKEHOLDERS
+  s_2be5519e899136::t_934d130d978770 202-215
+.github/actions/prepare_environment/action.yml
+  s_2be5519e899136::t_a69785c2f5ca5a 165-166,177-187,189-190
+.github/workflows/check_approvals.yml
+  s_2be5519e899136::t_259d24fd39ecce 14
+.github/workflows/ci.yml
+  s_2be5519e899136::t_b2575452543f46 52-53
+.github/workflows/close_stale_fix_prs.yml
+  s_2be5519e899136::t_f908c5029d2cbe 24
+.github/workflows/cut_new_releases.yml
+  s_2be5519e899136::t_4f75514c225373 33
+.github/workflows/feature_flag_cleanup.yml
+  s_2be5519e899136::t_168e7ac315bc41 17
+.github/workflows/label_external_contributors.yml
+  s_2be5519e899136::t_512cbcac2f8995 31
+.github/workflows/populate_build_cache.yml
+  s_2be5519e899136::t_ac3f79d5a1460a 25
+.github/workflows/repo-sync.yml
+  s_2be5519e899136::t_aab22919ca1487 18,38-39,54-55,66
+.github/workflows/stale_requested_changes_prs.yml
+  s_2be5519e899136::t_6a52fdc7447c16 44
+.github/workflows/sync-pr-checks.yml
+  s_2be5519e899136::t_bf034d27c236de 21
+.github/workflows/update-dedupe-local.yml
+  s_2be5519e899136::t_f0d4d32f7133db 14
+.github/workflows/update-pr-review-local.yml
+  s_2be5519e899136::t_5a57dc79015339 14
+.github/workflows/update-triage-local.yml
+  s_2be5519e899136::t_e82789e305dda8 14
+.github/workflows/warp_cleanup_fix_prs.yml
+  s_2be5519e899136::t_29387884b79de2 21
+.warp/skills/gui-integration-test-video/SKILL.md
+  s_2be5519e899136::t_479c34f0d5bf1b 2-3,8-9,12-21
+AGENTS.md
+  s_2be5519e899136::t_d3fc99fbbadf3b 8-10,17,20,58-66,70-80,82,91-92,94,134
+Cargo.lock
+  s_2be5519e899136::t_3a568a34ec614e 375,613,1212,2925,2993,2995,3116,3152,3198,3224,4454,4759,6419,6433,6542,6892,7097,7291,7374,7884,8142,9387,10509,10528,10773,11319,11365,11755,11768,11836,12527,13090,13510,14929,15277,15313,15331,15491,15541,15547,15553-15566,15673,15711,15784,15803,15855,15894,15903,15905,15907,15909,15923,15928-15930,15936-15938,15940,15970,16022,16069,16123,16161,16189,16338,16878
+Cargo.toml
+  s_2be5519e899136::t_aa6aa10355f397 85,336,344,388
+app/Cargo.toml
+  s_2be5519e899136::t_963b4ffb65f78d 238,332,426,504,732
+app/assets/bundled/svg/composio.svg
+  s_2be5519e899136::t_aaa7b0599d959d 1-11
+app/assets/bundled/svg/resend.svg
+  s_2be5519e899136::t_861889ac631c63 1-3
+app/assets/bundled/svg/sentry.svg
+  s_2be5519e899136::t_4a6eecd4c2a178 1
+app/build.rs
+  s_2be5519e899136::t_0e31c8b2faa4ad 120-123,127-129
+app/src/ai/agent/api/convert_conversation.rs
+  s_2be5519e899136::t_7b7817ef3d875d 434-435,437
+app/src/ai/agent/api/impl.rs
+  s_2be5519e899136::t_ef777095b4aa52 262
+app/src/ai/agent/conversation.rs
+  s_2be5519e899136::t_be08f9945af31b 7,21,37-41,96-107,174-192,500-502,566-576,674,1742-1886,1936-1938,2225,2330,2439,2646-2648,2855,3329,3462,3471,3514-3516,3519,3571,3681-3694,3848-3850
+app/src/ai/agent/conversation_tests.rs
+  s_2be5519e899136::t_f521aba658c6d2 10-11,74-209,327-486,503,674-751
+app/src/ai/agent/linearization.rs
+  s_2be5519e899136::t_50eee90c645df4 8,33-36,94-97
+app/src/ai/agent/mod.rs
+  s_2be5519e899136::t_f99d8215f3e1ca 859-862,2958-2965,3274-3282
+app/src/ai/agent/task.rs
+  s_2be5519e899136::t_9244b194eec2e6 9,16,255-257,259,780
+app/src/ai/agent/task_store.rs
+  s_2be5519e899136::t_6873024ebfe6a4 3,23,36,41,50,54,77,83-91,93-109,122,152,182,187,189,193,195,199,203-204,209-210,218,239,301,306,351-352,388-389,394,397-398,402,408-414
+app/src/ai/agent/task_store_tests.rs
+  s_2be5519e899136::t_72338ebe6f36ee 2,15,700-825
+app/src/ai/agent_conversations_model.rs
+  s_2be5519e899136::t_fc601881f489ca 22
+app/src/ai/agent_conversations_model_tests.rs
+  s_2be5519e899136::t_b4835f41befec5 212-213,321-322,377-378,442-443,522-523,754
+app/src/ai/agent_events/driver.rs
+  s_2be5519e899136::t_d6e724cebedb21 9,475-481
+app/src/ai/agent_events/driver_tests.rs
+  s_2be5519e899136::t_b6fe407146b335 9
+app/src/ai/agent_management/agent_management_model_tests.rs
+  s_2be5519e899136::t_ac808bf1e5e568 3,17,26
+app/src/ai/agent_management/cloud_setup_guide_view.rs
+  s_2be5519e899136::t_e0e148e3c1f096 9,388-391
+app/src/ai/agent_management/notifications/view.rs
+  s_2be5519e899136::t_92ab443d88412f 2,235-238
+app/src/ai/agent_sdk/ambient.rs
+  s_2be5519e899136::t_66bcc6ff0cae49 431-435
+app/src/ai/agent_sdk/driver.rs
+  s_2be5519e899136::t_d2ab943a445324 30-31,60-61,588-594,879,881,899-922,926,949-952,2010,2318,3346,3597,3648-3651,3673-3676
+app/src/ai/agent_sdk/driver/attachments.rs
+  s_2be5519e899136::t_e5b8b8fea3a8df 13,79
+app/src/ai/agent_sdk/driver/bedrock_credentials.rs
+  s_2be5519e899136::t_1ed92cb4cf1159 25,75,154-157
+app/src/ai/agent_sdk/driver/error_classification.rs
+  s_2be5519e899136::t_e1838566af5fdd 329
+app/src/ai/agent_sdk/driver/harness/claude_code.rs
+  s_2be5519e899136::t_3a4ed9b65d6fe0 60,463
+app/src/ai/agent_sdk/driver/harness/codex.rs
+  s_2be5519e899136::t_3ff4f05bbd6085 16,326
+app/src/ai/agent_sdk/driver/harness/gemini.rs
+  s_2be5519e899136::t_e840c168184590 13,170
+app/src/ai/agent_sdk/driver/snapshot.rs
+  s_2be5519e899136::t_943ab53e17359e 40,148-150,176-178,183-189,197-204,861-864,1290-1292,1316-1318
+app/src/ai/agent_sdk/driver/terminal.rs
+  s_2be5519e899136::t_94fb547b05edae 633-639
+app/src/ai/agent_sdk/environment.rs
+  s_2be5519e899136::t_e55c648007d822 304,307-309,958,1127-1128,1168-1173
+app/src/ai/agent_sdk/federate.rs
+  s_2be5519e899136::t_184f327d9d909a 9
+app/src/ai/agent_sdk/mod.rs
+  s_2be5519e899136::t_708b73873c0cd9 36,317-318,1135,1142,1184,1187,1429-1432,1440-1443
+app/src/ai/ai_document_view.rs
+  s_2be5519e899136::t_bca93e87653197 82-84,1013,1053-1056,1208
+app/src/ai/ambient_agents/task.rs
+  s_2be5519e899136::t_abad91117c02f9 13,537,556
+app/src/ai/artifacts/mod.rs
+  s_2be5519e899136::t_f1df1e2919653e 7
+app/src/ai/aws_credentials.rs
+  s_2be5519e899136::t_08c0ab58d92037 12,368-369,396
+app/src/ai/bedrock_credentials.rs
+  s_2be5519e899136::t_e596d7a44c0038 17,80-81
+app/src/ai/blocklist/action_model.rs
+  s_2be5519e899136::t_8226ca5fce0813 18-19,51-52,461-465,1109-1129,1292-1298
+app/src/ai/blocklist/action_model/execute.rs
+  s_2be5519e899136::t_171cb31357e0bf 670-675,892,916-937
+app/src/ai/blocklist/action_model/execute/fetch_conversation.rs
+  s_2be5519e899136::t_74037d42d35377 4,99-101
+app/src/ai/blocklist/action_model/execute/file_glob.rs
+  s_2be5519e899136::t_c0b96043d961e9 28-29,216
+app/src/ai/blocklist/action_model/execute/grep.rs
+  s_2be5519e899136::t_3c5bb90acfa994 9,376
+app/src/ai/blocklist/action_model/execute/request_computer_use.rs
+  s_2be5519e899136::t_a2158682164492 90-94
+app/src/ai/blocklist/action_model/execute/request_file_edits.rs
+  s_2be5519e899136::t_83599a1c99c247 25,31,33-34,44-45,61,117,123,125-132,162-170,177-178,180-181,183-187,194-195,198,202,273-277,319-320,328
+app/src/ai/blocklist/action_model/execute/request_file_edits_tests.rs
+  s_2be5519e899136::t_fb96bc518a07dc 1-2,4-7,9-12,14-87,89-111,115-220
+app/src/ai/blocklist/action_model/execute/run_agents_tests.rs
+  s_2be5519e899136::t_049e7469c93003 169
+app/src/ai/blocklist/action_model/execute/search_codebase.rs
+  s_2be5519e899136::t_40de56fb1b2abc 8,488
+app/src/ai/blocklist/action_model/execute/start_agent.rs
+  s_2be5519e899136::t_61c7f5f5bdb552 7,188-190
+app/src/ai/blocklist/action_model/execute/start_recording.rs
+  s_2be5519e899136::t_57db6282b165eb 13-14,40-43,48,60-62,86,92-98,110-112
+app/src/ai/blocklist/action_model/execute/stop_recording.rs
+  s_2be5519e899136::t_65482eaab3521c 2,12-17,19,61-65,68-69,76,78-90,92-93,95-105
+app/src/ai/blocklist/action_model/execute/use_computer.rs
+  s_2be5519e899136::t_27cafb7ad47019 49-54
+app/src/ai/blocklist/action_model/execute/wait_for_events_tests.rs
+  s_2be5519e899136::t_e5e2a59730afdf 94-95
+app/src/ai/blocklist/action_model/recording_controller.rs
+  s_2be5519e899136::t_f62b746ea2ddd5 1,3-6,10-11,16-23,29-30,36-68,72,78-164,168-219,223-245,248-253,257,260-263,265-280,290-293
+app/src/ai/blocklist/action_model/recording_controller_tests.rs
+  s_2be5519e899136::t_a2f0890ee7ce76 1-124
+app/src/ai/blocklist/action_model/recording_finalize.rs
+  s_2be5519e899136::t_a2b571e9cc2d37 1-294
+app/src/ai/blocklist/action_model/recording_finalize_tests.rs
+  s_2be5519e899136::t_2b941a08ed1c42 1-36
+app/src/ai/blocklist/agent_view/agent_input_footer/editor.rs
+  s_2be5519e899136::t_7be9a64e39ccd5 7,22
+app/src/ai/blocklist/agent_view/agent_input_footer/environment_selector.rs
+  s_2be5519e899136::t_0318a8481d4e90 9
+app/src/ai/blocklist/agent_view/agent_input_footer/mod.rs
+  s_2be5519e899136::t_faf69d52ea437e 34-36,101,129-133,209-213,271-336,693-710,712-713,718,731-732,877-878,882,902,919-920,945-953,1414-1417,1845-1847,1853-1857,1933-1935,2002,2324,2328-2353
+app/src/ai/blocklist/agent_view/agent_message_bar.rs
+  s_2be5519e899136::t_ce950fe845b260 8,23,417,605
+app/src/ai/blocklist/agent_view/controller.rs
+  s_2be5519e899136::t_32c3084b91b1db 833-838,842,967
+app/src/ai/blocklist/agent_view/conversation_selection.rs
+  s_2be5519e899136::t_8122464b0ea763 1,89-90,102-103
+app/src/ai/blocklist/agent_view/ephemeral_message_model.rs
+  s_2be5519e899136::t_3d17019c7293a0 57,70
+app/src/ai/blocklist/agent_view/mod.rs
+  s_2be5519e899136::t_15084c039ca6ec 79-80
+app/src/ai/blocklist/agent_view/orchestration_pill_bar.rs
+  s_2be5519e899136::t_e8ae06695272d1 50,1741,1743-1744,1747-1748
+app/src/ai/blocklist/agent_view/orchestration_pill_bar_model_tests.rs
+  s_2be5519e899136::t_8d0b0baaf93631 68-69
+app/src/ai/blocklist/agent_view/orchestration_pill_bar_tests.rs
+  s_2be5519e899136::t_f33a3e4e841be3 7-122,177,228,258-259
+app/src/ai/blocklist/agent_view/zero_state_block.rs
+  s_2be5519e899136::t_52c192f3f41fe7 12,32-33,620-622,807,1179
+app/src/ai/blocklist/block.rs
+  s_2be5519e899136::t_42762377cf6b03 50,110-111,169,207-208,487-489,1049-1057,1525-1526,1812,1879,1965-1973,2069-2074,3180-3182,3216-3227,3234-3237,3441,4273-4275,6285-6287,6875-6902
+app/src/ai/blocklist/block/cli.rs
+  s_2be5519e899136::t_8e91a8a2713b85 19,179,1205
+app/src/ai/blocklist/block/cli_controller.rs
+  s_2be5519e899136::t_a4a9252e14ef1e 8,385-392,452-454,473-474,591-592,645-647
+app/src/ai/blocklist/block/model/model_impl.rs
+  s_2be5519e899136::t_713db83f5e3bce 7,144,155
+app/src/ai/blocklist/block/secret_redaction.rs
+  s_2be5519e899136::t_f322f3fa610f06 6,64-67
+app/src/ai/blocklist/block/status_bar.rs
+  s_2be5519e899136::t_7efd3759a70d9c 39,351,373,377-381,383-418,855,1264
+app/src/ai/blocklist/block/view_impl.rs
+  s_2be5519e899136::t_7d55c622907ad5 1086-1087
+app/src/ai/blocklist/block/view_impl/common.rs
+  s_2be5519e899136::t_55f0356e7bdc36 3037,3061-3069,3178-3291
+app/src/ai/blocklist/block/view_impl/orchestration.rs
+  s_2be5519e899136::t_8e117a54f1f2ae 5,435-437,572-574,642-644,884-886
+app/src/ai/blocklist/block/view_impl/orchestration_tests.rs
+  s_2be5519e899136::t_83b9a0e3d2d8aa 305,359,388
+app/src/ai/blocklist/block/view_impl/output.rs
+  s_2be5519e899136::t_5a6920ff1dd074 25,57,65-67,141-144,209-219,257-272,777-804,1245,1841,1895-1916,2404-2406,2947-3146,3151,3159-3165,3183,3185-3191
+app/src/ai/blocklist/block/view_impl/output_tests.rs
+  s_2be5519e899136::t_828b3db62fae72 1-3,5,17-22,88-188,237-239,242
+app/src/ai/blocklist/context_model.rs
+  s_2be5519e899136::t_ab94cefcb5facb 227,487,768
+app/src/ai/blocklist/controller.rs
+  s_2be5519e899136::t_be74cf1b1f803a 17,27,62,758-759,768-770,859,1015-1016,1191,1232-1233,1248-1250,1273-1274,1338,1371-1416,1496-1499,1987-1990,2454-2458,2928-2929
+app/src/ai/blocklist/controller/response_stream.rs
+  s_2be5519e899136::t_92306db1446c0e 9,17,24-29,185,188,247-353,402-404
+app/src/ai/blocklist/controller/shared_session.rs
+  s_2be5519e899136::t_86c322471e9b18 9,188-190,333-334,338-341,442-445,669-671,729,742,771-774,780-782,804-807,881
+app/src/ai/blocklist/controller/slash_command.rs
+  s_2be5519e899136::t_890911840f558d 4,149,212,222-227
+app/src/ai/blocklist/conversation_selection.rs
+  s_2be5519e899136::t_450b3aff3a6f0b 117-175
+app/src/ai/blocklist/diff_storage.rs
+  s_2be5519e899136::t_af31970d874a18 1-280
+app/src/ai/blocklist/diff_storage_tests.rs
+  s_2be5519e899136::t_d17080229ef567 1-201
+app/src/ai/blocklist/diff_types.rs
+  s_2be5519e899136::t_56d5b645101347 1-107
+app/src/ai/blocklist/history_model.rs
+  s_2be5519e899136::t_8dbedff77c99c5 3,5,18,45,57,209-217,262-269,307,311,319-327,330,1020,1023-1036,1043-1054,1133,1638-1641,1655,1674-1677,1682-1683,1687-1697,1851-1855,2002,2073-2074,2079-2080,2304-2321,2730,3280-3386
+app/src/ai/blocklist/history_model/conversation_loader.rs
+  s_2be5519e899136::t_85f1515e1f92ad 27-29,477-481,490,509-520,544,556,582-588,592-593,605-608,612-617
+app/src/ai/blocklist/history_model_tests.rs
+  s_2be5519e899136::t_999359d8d429f5 9,21,36-37,43,129,188,662-663,709,726-727,738-838,901-902,950-1024,1051-1052,1285-1286,1356-1357,1419-1420,1469-1470,1528-1529,1587-1588,1625-1626,1678-1679,1749,1754-1755,1778-1779,1814-1815,1841-1842,1872-1873,1889-1890,1913-1914,1946-1947,1976-1977,2039-2040,2080-2081,2461,2880-2881,2914-2915,2948-2949,2984-2985,3017-3018,3085-3086,3125-3126,3181-3182,3253-3254,3313-3314,3403-3404,3508-3509,3638-3639,3795-3796,3881-3882,4841-5092
+app/src/ai/blocklist/inline_action/aws_bedrock_credentials_error.rs
+  s_2be5519e899136::t_2992599118c931 3,20
+app/src/ai/blocklist/inline_action/code_diff_view.rs
+  s_2be5519e899136::t_8dde8e80b0f911 12-13,28,47,52-54,60-64,263-264,278,340-374,414-415,422,523,547,561,636-638,849,891,923,949,983-988,992-1003,1008,1035,1037,1049,1108,1357,2188-2194,2196-2226,2228-2236,2238-2239,2241-2252,2254-2256,2927-2996,3087
+app/src/ai/blocklist/inline_action/orchestration_controls.rs
+  s_2be5519e899136::t_275a69c2de884b 18,56
+app/src/ai/blocklist/inline_action/requested_command.rs
+  s_2be5519e899136::t_47f79ec0c6ade7 1588
+app/src/ai/blocklist/inline_action/run_agents_card_view.rs
+  s_2be5519e899136::t_de10777d628216 15,963-965
+app/src/ai/blocklist/input_model.rs
+  s_2be5519e899136::t_5a8eeed3c72eb2 10,36-37,91-92,94,107,315-348,676-678,691,693,696-700,743,745-747,749-752,755-776,778-779,888-903,905,907,914,921,926-929,933-985
+app/src/ai/blocklist/input_model_tests.rs
+  s_2be5519e899136::t_e55a99243f0a15 1-12,17,21,23-25,28,40-160,262
+app/src/ai/blocklist/local_agent_task_sync_model_tests.rs
+  s_2be5519e899136::t_4377eafc0859a2 183-184,339-340,499,559-560,596-597,645-646,681-682,715-716,748-749,776-777,825-826,860-861,895-896
+app/src/ai/blocklist/mod.rs
+  s_2be5519e899136::t_8ffb2a3a1dea1c 9-10,36,39-48,51-56
+app/src/ai/blocklist/orchestration_event_streamer.rs
+  s_2be5519e899136::t_1a13020ec6d4b6 323,607,636-639,1684-1690,1693-1701
+app/src/ai/blocklist/orchestration_event_streamer_tests.rs
+  s_2be5519e899136::t_2aa3b89b45da56 275-276,345-346,407-408,471-472,600-601,687-688,759-760,842-843,941,981-982,1051-1052,1117-1118,1177,1342,1401,1444,1524-1525,1558-1559,1589-1590,1616-1618,1628-1631,1681-1682,1807,1898,1976-1977,1979-1980,2034-2035,2094,2096-2097,2142-2143,2210,2212-2213,2287-2288,2349-2350,2405-2406,2454-2455,2488-2489,2526-2527,2576-2577
+app/src/ai/blocklist/passive_suggestions/legacy.rs
+  s_2be5519e899136::t_f19339a29c7b35 13,622-624
+app/src/ai/blocklist/passive_suggestions/maa.rs
+  s_2be5519e899136::t_fea63ff8d60229 19,143-144,147-163
+app/src/ai/blocklist/permissions.rs
+  s_2be5519e899136::t_b5095630a910e8 11,155-156
+app/src/ai/blocklist/permissions_tests.rs
+  s_2be5519e899136::t_16866131e8e2a5 65
+app/src/ai/cloud_agent_settings.rs
+  s_2be5519e899136::t_9fd54eec12e022 11
+app/src/ai/connected_self_hosted_workers.rs
+  s_2be5519e899136::t_457a8d462fafb6 1
+app/src/ai/conversation_details_panel.rs
+  s_2be5519e899136::t_7a4eb029445c80 11,19-23,145,1308-1313,1316,1331-1362,1371,1638,2266
+app/src/ai/conversation_details_panel_tests.rs
+  s_2be5519e899136::t_328ed896990b39 9,214-215,296-297,335-336,362-363,429-470,474-475
+app/src/ai/conversation_export.rs
+  s_2be5519e899136::t_a681c2b141074e 1-143
+app/src/ai/conversation_export_tests.rs
+  s_2be5519e899136::t_1d28d9e0e96281 1-83
+app/src/ai/conversation_utils.rs
+  s_2be5519e899136::t_931a75428d6f5b 1,3,29-34
+app/src/ai/document/ai_document_model.rs
+  s_2be5519e899136::t_b78a84fc9eb0b2 17,327-329,1180-1183,1225-1228
+app/src/ai/document/plan_publication.rs
+  s_2be5519e899136::t_c2d2e381b48fb3 8,83-85,89-91
+app/src/ai/execution_profiles/model_menu_items.rs
+  s_2be5519e899136::t_c7eb77fd0f4402 10,14-15,87
+app/src/ai/execution_profiles/profiles.rs
+  s_2be5519e899136::t_0dc1ee4e15680b 6,11,289,291,302,393,1342-1345
+app/src/ai/geap_credentials.rs
+  s_2be5519e899136::t_0f9aaafdbea7d2 10,320
+app/src/ai/get_relevant_files/controller.rs
+  s_2be5519e899136::t_17b1ec8ad9106a 10,14,24,98-100,102
+app/src/ai/harness_availability.rs
+  s_2be5519e899136::t_8681d81d086122 9
+app/src/ai/llms.rs
+  s_2be5519e899136::t_56bf3980ddbed7 6,13,46-137,204,432-433,487-492,523-543,1088-1119,1148-1149,1473-1507,1650-1652,1657,1659,1663
+app/src/ai/llms_tests.rs
+  s_2be5519e899136::t_77bd2e78683bc4 363-405,437-454
+app/src/ai/mcp/mod.rs
+  s_2be5519e899136::t_c7c4c509d2e44a 70-71,382-384,424-426,465-466
+app/src/ai/mcp/templatable_installation.rs
+  s_2be5519e899136::t_9185258ab4bab6 9,66-67
+app/src/ai/mcp/templatable_manager/native.rs
+  s_2be5519e899136::t_09f272c5eada29 19,45,90,92,94,96,191-193,211-214,328-335,660-662,717-719,756-758,771-774,778,1140-1141,1224-1225,1303-1306,1567-1568
+app/src/ai/mod.rs
+  s_2be5519e899136::t_54d3db07847ac0 27-28
+app/src/ai/outline/native.rs
+  s_2be5519e899136::t_1d9bc868a881e4 6,16,250-251,254-256,259
+app/src/ai/persisted_workspace.rs
+  s_2be5519e899136::t_62cbbdd5859f11 28,48-49,310-316,322
+app/src/ai/predict/next_command_model.rs
+  s_2be5519e899136::t_bdf6b19a671839 19,32,162
+app/src/ai/request_usage_model.rs
+  s_2be5519e899136::t_e5ffc2f0f99429 4,9,359-361,372
+app/src/ai/restored_conversations.rs
+  s_2be5519e899136::t_01241d2afd5659 1,3-5,7-8,12,14,16-17,19,21-25,27,29-34,38-59,76-105,109-118,122-127,129-137,146-147,167-170
+app/src/ai/restored_conversations_tests.rs
+  s_2be5519e899136::t_50f6c83cf5c7e6 1-67
+app/src/ai/skills/bundled.rs
+  s_2be5519e899136::t_62f1d14e1d7c20 8,10
+app/src/ai_assistant/panel.rs
+  s_2be5519e899136::t_779282ef13c289 7,234
+app/src/app_menus.rs
+  s_2be5519e899136::t_bad005b7023510 12,23,651-653,684,720,768,825-827,935
+app/src/app_services/linux/mod.rs
+  s_2be5519e899136::t_e00b2deaaec65e 5,206-207
+app/src/app_services/windows/mod.rs
+  s_2be5519e899136::t_cac03bfa4281fa 2-3,53-56
+app/src/app_services/windows/registry.rs
+  s_2be5519e899136::t_e9af3cd365beb3 4,12,31-33,37-39,49-50,63-65,71-72,76-78
+app/src/app_services/windows/service_impl.rs
+  s_2be5519e899136::t_df6e86f5a2d315 7,37-39
+app/src/app_services/windows/single_instance_manager.rs
+  s_2be5519e899136::t_c9b46eceea259b 6,70-72,122-124
+app/src/auth/auth_manager.rs
+  s_2be5519e899136::t_7e4baba475f126 12,48-49,426-427,734-736
+app/src/auth/auth_view_body.rs
+  s_2be5519e899136::t_297ab3df13381f 6,42
+app/src/auth/auth_view_modal.rs
+  s_2be5519e899136::t_39d6bfccb9e5a5 9,292
+app/src/auth/mod.rs
+  s_2be5519e899136::t_d7060913b76735 25,53-54,291,300-301,308-309,316-317
+app/src/auth/web_handoff.rs
+  s_2be5519e899136::t_600ee0ffb82dec 2,102
+app/src/autoupdate/changelog.rs
+  s_2be5519e899136::t_4df9de4a1d16cd 8,33-35
+app/src/autoupdate/channel_versions.rs
+  s_2be5519e899136::t_1561d8aef9724a 7
+app/src/autoupdate/mac.rs
+  s_2be5519e899136::t_dfba0095db6726 22,506,548
+app/src/autoupdate/mod.rs
+  s_2be5519e899136::t_e76122788ebcb8 19,34,984,1036
+app/src/cloud_object/mod.rs
+  s_2be5519e899136::t_d2efe4a52811ee 346,989
+app/src/cloud_object/model/persistence.rs
+  s_2be5519e899136::t_8dbef189c10e0a 8,790,906,1062-1064,1791
+app/src/code/editor/diff.rs
+  s_2be5519e899136::t_43ae44c61a8c67 88,92-138,615,649
+app/src/code/editor/diff_tests.rs
+  s_2be5519e899136::t_0e566e0abae0b3 7,377
+app/src/code/editor/element.rs
+  s_2be5519e899136::t_526acfb9bc21ab 932-934,936,941-945,947,1620-1630
+app/src/code/editor/embedded_comment.rs
+  s_2be5519e899136::t_bee63b43833acb 18,58-60,67-69,196,202,208,214-218,225-229,236-240
+app/src/code/editor/mod.rs
+  s_2be5519e899136::t_7d3eac155e211e 19
+app/src/code/editor/model.rs
+  s_2be5519e899136::t_c0f9e37ada25c8 64,308-309,376-377,380-385,398,468,605,614,619-627,631,638-640,643,1461-1462,1471-1472,1474-1475,1498,1503-1506,1508,1517,1627,1639,1669,1672,1940-2021
+app/src/code/editor/model_tests.rs
+  s_2be5519e899136::t_f5bef84b1fdfe3 838,883,1008-1148
+app/src/code/editor/view.rs
+  s_2be5519e899136::t_d2ca7baa3cc227 73-74,103-104,906-935,1307-1308
+app/src/code/editor/view/actions.rs
+  s_2be5519e899136::t_204df6b28661a3 1314-1324
+app/src/code/global_buffer_model.rs
+  s_2be5519e899136::t_4910ad739483f0 5,273,854,863-868,881-886,897-902,1990-1995,2039-2044
+app/src/code/inline_diff.rs
+  s_2be5519e899136::t_708ad6ccbfd291 1-2,6-7,22,24,35,216-218,220-221,225,228-251,261-272,324-325,331,349,354
+app/src/code/local_code_editor.rs
+  s_2be5519e899136::t_1d8b63598d1737 9,112,171-172,326,537,1141,1143,1686,1688,2098,2290,2292
+app/src/code/local_code_editor_wasm.rs
+  s_2be5519e899136::t_6655cf1060af84 4,33
+app/src/code/mod.rs
+  s_2be5519e899136::t_794266a9f05018 6,45-55
+app/src/code_review/code_review_view.rs
+  s_2be5519e899136::t_e485fd4fba4f7e 1796,1819-1821,1844,3249,3291,3544,3558-3567,3572,3579,3601-3603,3608,4301,4813,4855,4876-4881,4885,5097-5112,5115,5914-5916,5979,7730
+app/src/code_review/code_review_view_integration.rs
+  s_2be5519e899136::t_93525de91a7f62 382-440
+app/src/code_review/code_review_view_tests.rs
+  s_2be5519e899136::t_158e842bfd5ae8 26-27,187-225,816-953
+app/src/code_review/comment_list_view.rs
+  s_2be5519e899136::t_c458b9978a6e8c 263-269,271,275-280,578-589,591-596
+app/src/code_review/comments/batch.rs
+  s_2be5519e899136::t_aef152bf04b017 101
+app/src/code_review/comments/comment.rs
+  s_2be5519e899136::t_0621ad02014d4c 59-71
+app/src/code_review/comments/comment_tests.rs
+  s_2be5519e899136::t_2c91c0e4b76c07 68-113
+app/src/code_review/comments/mod.rs
+  s_2be5519e899136::t_098016f8b2682e 9-10
+app/src/code_review/diff_state/error.rs
+  s_2be5519e899136::t_d22214f36458e7 14,26,155,194
+app/src/code_review/diff_state/local.rs
+  s_2be5519e899136::t_69e1ffa4ab8ccd 61-63,810-812,872,1206-1212
+app/src/code_review/find_model.rs
+  s_2be5519e899136::t_41956cc426e02c 13-14,245,260-262
+app/src/code_review/git_dialog/commit.rs
+  s_2be5519e899136::t_c5146499d4320a 9,428
+app/src/code_review/git_dialog/pr.rs
+  s_2be5519e899136::t_71f091542daf38 9,148
+app/src/code_review/git_dialog/push.rs
+  s_2be5519e899136::t_b7363508ded016 13,138
+app/src/code_review/git_repo_models.rs
+  s_2be5519e899136::t_af8c8cd41b5e4f 159-163
+app/src/code_review/github_repo_model/local.rs
+  s_2be5519e899136::t_f83472adb245ff 5
+app/src/context_chips/current_prompt.rs
+  s_2be5519e899136::t_e5dca5a9312060 11,630,920,960,1332
+app/src/context_chips/display_menu.rs
+  s_2be5519e899136::t_edfe6d22b93c54 667
+app/src/context_chips/logging.rs
+  s_2be5519e899136::t_38df2d061bc1f8 17-18,166-168
+app/src/context_chips/prompt_type.rs
+  s_2be5519e899136::t_51f3e7206fc80e 1,73-76
+app/src/crash_recovery.rs
+  s_2be5519e899136::t_d1f37880113686 10,14,108,196-197,403,406
+app/src/crash_reporting/sentry_minidump.rs
+  s_2be5519e899136::t_eff4af8cd30b62 29,220
+app/src/default_terminal/mod.rs
+  s_2be5519e899136::t_bc3d58b60e7465 30,101-104
+app/src/drive/import/modal_body.rs
+  s_2be5519e899136::t_daf9ffb7546fa1 5,350
+app/src/drive/import/nodes.rs
+  s_2be5519e899136::t_f2129ec5eb7a84 10,724
+app/src/drive/import/queue.rs
+  s_2be5519e899136::t_90b913462ba21e 3,78
+app/src/drive/index.rs
+  s_2be5519e899136::t_bfe3f9d25613ce 13,99,605-617,966-978,5393,5398,5401,5404
+app/src/drive/panel.rs
+  s_2be5519e899136::t_b3f943c03bbb6a 2,154-157,169-172,195-198,214-217,238-241,362-365
+app/src/drive/sharing/dialog/mod.rs
+  s_2be5519e899136::t_e80c72199dfa32 12,1092,1197,1625
+app/src/drive/workflows/modal.rs
+  s_2be5519e899136::t_af00f94bceccd1 10,753,800
+app/src/drive/workflows/workflow_arg_type_helpers.rs
+  s_2be5519e899136::t_fd6ea1de3d3eaf 3,316
+app/src/editor/view/element.rs
+  s_2be5519e899136::t_1d44cfaad92109 15,1592
+app/src/editor/view/mod.rs
+  s_2be5519e899136::t_25e316c1ece4d3 1199,1212,1414-1415,3895,3960,4015,4059,4845-4848,4852,4856-4858,6235-6238,6317,6837,6985-6987
+app/src/editor/view/mod_tests.rs
+  s_2be5519e899136::t_d9535e15d66f80 6
+app/src/editor/view/model/mod.rs
+  s_2be5519e899136::t_6402d740fc8890 38,1045,1066,1101,1191,1224,1362,1382-1384,1389-1391,2050,2067,2085,3091,3106
+app/src/editor/view/snapshot.rs
+  s_2be5519e899136::t_06fd0d1641e6dd 16,419,425,440,446
+app/src/editor/view/voice.rs
+  s_2be5519e899136::t_9d61c821a60358 6,83,172,287-288,505
+app/src/env_vars/view/env_var_collection.rs
+  s_2be5519e899136::t_aeea42a78e69b9 3,740,864
+app/src/experiments/mod.rs
+  s_2be5519e899136::t_5f3a900f1315cf 25,175-178,232-235,302-305,320-323
+app/src/features.rs
+  s_2be5519e899136::t_87e3dc68e49ef8 506-507
+app/src/integration_testing/agent_mode/mod.rs
+  s_2be5519e899136::t_2a85b7048b0b3c 15,21,65,94
+app/src/integration_testing/agent_mode/step.rs
+  s_2be5519e899136::t_5035cde205ccd8 47,49,52-53,72,74,77-78
+app/src/integration_testing/code_review/mod.rs
+  s_2be5519e899136::t_c389239802c8d9 216-289
+app/src/integration_testing/remote_server.rs
+  s_2be5519e899136::t_b237b9f1cb7a7c 7,259-262,266,284
+app/src/integration_testing/terminal/assertion.rs
+  s_2be5519e899136::t_2534a78648efe9 408-409,417-418,441-442,650-652
+app/src/launch_configs/launch_config.rs
+  s_2be5519e899136::t_3d87b96613bb6e 186-187,192-230,239,291,303
+app/src/launch_configs/launch_config_tests.rs
+  s_2be5519e899136::t_1f13a0c2c4f2c5 3,229-353
+app/src/lib.rs
+  s_2be5519e899136::t_67a57bbd9305ec 228,424-428,542-546,856-857,1009,1032,1232,1302,1319-1321,1397-1399,1403-1415,1417-1418,1453-1463,1465-1471,1478,1485,1516,1520-1521,1608,1999-2008,2021-2023,2899,2911
+app/src/login_item/macos.rs
+  s_2be5519e899136::t_04922491438687 8
+app/src/login_item/windows.rs
+  s_2be5519e899136::t_a7697905990a14 13
+app/src/notebooks/editor/model.rs
+  s_2be5519e899136::t_001b7d7bb83a79 36,1427-1430
+app/src/notebooks/manager.rs
+  s_2be5519e899136::t_22e516e817b7e5 7,122
+app/src/notebooks/notebook.rs
+  s_2be5519e899136::t_5bf38806454d75 14,94,849-851,1778-1780
+app/src/pane_group/ambient_pane_restoration.rs
+  s_2be5519e899136::t_815fce8310debe 3,108,190
+app/src/pane_group/child_agent/hydration.rs
+  s_2be5519e899136::t_f6dd6915fca0e2 1,102-105,133-135
+app/src/pane_group/child_agent/mod.rs
+  s_2be5519e899136::t_e5b8b18bc153b5 9,151,245-250
+app/src/pane_group/child_agent/restoration.rs
+  s_2be5519e899136::t_fb95e7bedf88f7 6,127,206,208-209,294-297,359,375-377
+app/src/pane_group/mod.rs
+  s_2be5519e899136::t_30e816d2e890f6 28,125-126,128,171,205,1051,1059,1640,1914,2149,2473-2494,2944-2946,2953,3519,3532-3537,3662,4328,4332,4564,4705,4827,4929-4931,4937-4939,4962-4967,5013-5016,5045-5048,5511,6061-6069,6076,6089,6097-6145,6430-6432,6435,6634-6636,6869,7233,7302-7305,7560
+app/src/pane_group/mod_tests.rs
+  s_2be5519e899136::t_18aaa298b518c4 209,402,1085,1273-1274,1279-1280,1905-1906,1911-1912
+app/src/pane_group/pane/terminal_pane.rs
+  s_2be5519e899136::t_39078753d9edb1 13,67,247-249,1034-1048,1054-1057,1965-1967,1978,2009-2014,2115,2224-2226,2252-2253
+app/src/pane_group/pane/view/header/mod.rs
+  s_2be5519e899136::t_7b4ad50de07d57 8,970-972
+app/src/pane_group/pane/view/mod.rs
+  s_2be5519e899136::t_16dd7f61eabbbe 12-13,35-43,384-388
+app/src/pane_group/tree.rs
+  s_2be5519e899136::t_28388767c46118 7,272,301,319,1008
+app/src/pane_group/working_directories.rs
+  s_2be5519e899136::t_6223dac715b95f 17-18,954-956
+app/src/persistence/agent.rs
+  s_2be5519e899136::t_cfaa15cba094ca 9,12-13,22,68-73,79,235-246,248,251-252,255-266,268-279,282-298,300-304,307-335,337-351,382
+app/src/persistence/agent_tests.rs
+  s_2be5519e899136::t_eba3dbc592640e 2,6-220,250,371
+app/src/persistence/block_list.rs
+  s_2be5519e899136::t_5d5089eb7e6b8f 6,14,90-102,108,116-150
+app/src/persistence/block_list_tests.rs
+  s_2be5519e899136::t_c025ef3476992d 8,13-16,49-58,86-92,180-238
+app/src/persistence/mod.rs
+  s_2be5519e899136::t_4fa178b798ff88 22,31-35,41,69,71,73-147,160,162-164,167,237,241-243,247,273-275,287,296-299,422-426
+app/src/persistence/sqlite.rs
+  s_2be5519e899136::t_8342af6d09f5b3 45-46,51-54,69-70,95-98,117,136,145,158-173,190,193,327-329,434,441-450,457-460,741-745,2457,2459-2482,2484-2485,2487-2492,2494,2496-2499,2501-2505,2507-2512,2514-2582,2584-2586,2588-2608,2610-2626,2628-2629,2631-2652,2654-2675,2677,2679-2690,2803-2815,2817-2825,2827-2835,2847-2857,2861-2864,2882,2891
+app/src/persistence/sqlite_tests.rs
+  s_2be5519e899136::t_546004334f452d 1,15-17,27,43-75,154-188,390,392-393,464,466-467,542,544-545,666,668-669,826,828-829,1004,1006-1007
+app/src/plugin/app/mod.rs
+  s_2be5519e899136::t_28eee01a240df8 8,50-51,57-59,98,123-126
+app/src/plugin/host/native/js_api/mod.rs
+  s_2be5519e899136::t_42573f02e094d3 2,41
+app/src/plugin/host/native/runners.rs
+  s_2be5519e899136::t_b0d6ce358b183f 7,103-105,109-112
+app/src/profiling.rs
+  s_2be5519e899136::t_c46bc1246b5f8b 245
+app/src/projects.rs
+  s_2be5519e899136::t_eaa8e514c53360 6,86
+app/src/prompt/editor_modal.rs
+  s_2be5519e899136::t_f97a3c010aee91 6,35
+app/src/quit_warning/mod.rs
+  s_2be5519e899136::t_062de812971bcc 5,15
+app/src/remote_server/unix/mod.rs
+  s_2be5519e899136::t_2b5f181d38ed0d 19,56,67,108,127,207-210,235-238,265-269,283-286
+app/src/resource_center/mod.rs
+  s_2be5519e899136::t_fdf1d57331b12e 5
+app/src/resource_center/view.rs
+  s_2be5519e899136::t_3b363ce145e9a8 49
+app/src/resource_limits.rs
+  s_2be5519e899136::t_827a038afae46d 1-2,20-21,33-36
+app/src/root_view.rs
+  s_2be5519e899136::t_f1d74fba28d670 23,103-104,1889-1892,2633-2634,2804,2824,2843-2846,2862,2889,2903,2922,3023-3024,3142,3219-3221,3568
+app/src/search/action/data_source.rs
+  s_2be5519e899136::t_22b6a72630a6ff 260
+app/src/search/ai_context_menu/blocks/data_source.rs
+  s_2be5519e899136::t_cceb4011c97392 52
+app/src/search/command_palette/launch_config/data_source.rs
+  s_2be5519e899136::t_13e8c44079423e 196-198
+app/src/search/command_palette/new_session/data_source.rs
+  s_2be5519e899136::t_b46d611e625387 376-378,414-416
+app/src/search/command_palette/warp_drive/data_source.rs
+  s_2be5519e899136::t_bd9a916b3be736 3,51,63,81,96,99,106
+app/src/search/command_search/notebooks/notebook_search_item.rs
+  s_2be5519e899136::t_4a17e0f26968f4 4,120
+app/src/search/command_search/view.rs
+  s_2be5519e899136::t_4bdcc95aee1bcb 12,193
+app/src/search/env_var_collections/fuzzy_match.rs
+  s_2be5519e899136::t_8ba2b18ba58dd6 3,121
+app/src/search/external_secrets/external_secret_fuzzy_match.rs
+  s_2be5519e899136::t_27621f96c5033f 3,27
+app/src/search/notebook_embedding/embedded_fuzzy_match.rs
+  s_2be5519e899136::t_75a68d58e60e2b 3,47
+app/src/search/notebooks/fuzzy_match.rs
+  s_2be5519e899136::t_d78644540992b5 3,136
+app/src/search/slash_command_menu/mod.rs
+  s_2be5519e899136::t_d9ab2619272901 7
+app/src/search/slash_command_menu/static_commands/mod.rs
+  s_2be5519e899136::t_b6fceecfe820ed 102-106,125-132
+app/src/search/slash_command_menu/static_commands/mod_tests.rs
+  s_2be5519e899136::t_be2144d4a751a6 1-12
+app/src/search/workflows/fuzzy_match.rs
+  s_2be5519e899136::t_60ae8f2acede21 3,87
+app/src/server/cloud_objects/listener.rs
+  s_2be5519e899136::t_e7355915a1aed6 8
+app/src/server/cloud_objects/update_manager.rs
+  s_2be5519e899136::t_f0e39169439459 17,265,1554,2885,2916,2918,3099,3105
+app/src/server/experiments/model.rs
+  s_2be5519e899136::t_c8f5bbf16157ed 8,13
+app/src/server/server_api.rs
+  s_2be5519e899136::t_fbde17ce963e3a 39,182-190,332-334,352-353,869-870,874-876
+app/src/server/server_api/ai.rs
+  s_2be5519e899136::t_c3971b3756c7b6 21,3140-3142,3160-3162,3254-3256,3284-3287,3328
+app/src/server/server_api/object.rs
+  s_2be5519e899136::t_84b86ccf6b8a5f 17
+app/src/server/sync_queue.rs
+  s_2be5519e899136::t_c7e9f68a413ae3 13,982-984,1122,1207,1440
+app/src/server/telemetry/collector.rs
+  s_2be5519e899136::t_830fef15e98f56 8,91,156
+app/src/server/telemetry/context.rs
+  s_2be5519e899136::t_abb4e7bb63bf1c 8,49-50
+app/src/server/telemetry/mod.rs
+  s_2be5519e899136::t_1b2c9625dfc082 26,176
+app/src/server/telemetry/secret_redaction.rs
+  s_2be5519e899136::t_3f85b2851be1f6 26,61-63
+app/src/settings/ai.rs
+  s_2be5519e899136::t_6f8f575edefd16 25,439-484,1115-1120,1748-1762,2223-2241
+app/src/settings/cloud_preferences_syncer.rs
+  s_2be5519e899136::t_30938ac620fb39 13
+app/src/settings/import/view.rs
+  s_2be5519e899136::t_9700396d0bbcd9 4,32,866-869
+app/src/settings/init.rs
+  s_2be5519e899136::t_f0c4f27f6f8b71 6,25,289
+app/src/settings/initializer.rs
+  s_2be5519e899136::t_2cd09ecc685be2 5
+app/src/settings/onboarding.rs
+  s_2be5519e899136::t_fa42143f59b29d 5
+app/src/settings/privacy.rs
+  s_2be5519e899136::t_3bf7df0c6a82fb 10,347-349,608,630-633,646,659,676
+app/src/settings_view/ai_page.rs
+  s_2be5519e899136::t_64b678dcda8a91 148,165,1740-1742,2287,8077-8079,8092,8135,8156-8157,8160-8163,8175,8266-8269,8280,8283-8286,8312-8314,8321-8353,8355-8398,8403-8404,8424-8437,8448,8463-8464,8472-8473,8481-8482,8490-8495,8497-8525,8527,8545-8549,8562-8578,8882-8935,8949-8958,8962-8963,8969-8970,8975-8977,8984-8990,8999-9018,9032-9038,9062,9067-9077,9082,9112-9113,9122
+app/src/settings_view/appearance_page.rs
+  s_2be5519e899136::t_da3ab7d7535ea7 10,51,62-66,102,530-533,653-680,1164-1166,1202,1237,1269,1419-1442,2558,2584,3510-3670,5272-5275
+app/src/settings_view/billing_and_usage/billing_cycle_usage_section.rs
+  s_2be5519e899136::t_fe795d6b435ab3 224-225,230-232,797-827
+app/src/settings_view/billing_and_usage/billing_cycle_usage_section_tests.rs
+  s_2be5519e899136::t_7628363ab9755f 1-79
+app/src/settings_view/billing_and_usage/usage_history_entry.rs
+  s_2be5519e899136::t_55c81721ce12ca 3,86
+app/src/settings_view/billing_and_usage/usage_history_model.rs
+  s_2be5519e899136::t_2f6cbe55a21fe6 3
+app/src/settings_view/code_page.rs
+  s_2be5519e899136::t_95a6ee4390c587 20
+app/src/settings_view/custom_router_view.rs
+  s_2be5519e899136::t_bb7fab767f2379 406-416,433-436
+app/src/settings_view/custom_router_view_tests.rs
+  s_2be5519e899136::t_a1494807cc7c76 1-74
+app/src/settings_view/environments_page.rs
+  s_2be5519e899136::t_05a6256c26085e 147,273
+app/src/settings_view/features/external_editor.rs
+  s_2be5519e899136::t_0faf0a66adb32c 6,13
+app/src/settings_view/features/startup_shell.rs
+  s_2be5519e899136::t_f94667acdb70c1 1,9
+app/src/settings_view/features/undo_close.rs
+  s_2be5519e899136::t_c217a78221a2da 6
+app/src/settings_view/features/working_directory.rs
+  s_2be5519e899136::t_47d671ccd44036 2,10
+app/src/settings_view/features_page.rs
+  s_2be5519e899136::t_c0b6662258dfc6 14,112,1708,1732,1748,1764,1779,1794,2099-2101,3069,3106
+app/src/settings_view/handoff_environment_creation_modal.rs
+  s_2be5519e899136::t_29ff5acba6a63b 2,117,141
+app/src/settings_view/keybindings.rs
+  s_2be5519e899136::t_76259a1c6bbdff 5,664,696,714
+app/src/settings_view/main_page.rs
+  s_2be5519e899136::t_c6ca7d7b2e5685 11,49,1046
+app/src/settings_view/mcp_servers/edit_page.rs
+  s_2be5519e899136::t_ad49c7c6aab499 19,43,195-202,704,716-717
+app/src/settings_view/mcp_servers/list_page.rs
+  s_2be5519e899136::t_c031ef73a36182 13,15-17,188-192,596,610-612,637,640,645,654-656,667-670,674,679,688,728
+app/src/settings_view/mcp_servers/server_card.rs
+  s_2be5519e899136::t_a168a0498b9db1 8,968
+app/src/settings_view/mcp_servers_page.rs
+  s_2be5519e899136::t_5f0ba3148d4493 4,157,167
+app/src/settings_view/mod.rs
+  s_2be5519e899136::t_61b64e944b2f8f 527
+app/src/settings_view/platform/create_api_key_modal.rs
+  s_2be5519e899136::t_ef3ef957c841c1 5,298
+app/src/settings_view/privacy_page.rs
+  s_2be5519e899136::t_7d59a24b429a5d 14,44,454,458-461,559
+app/src/settings_view/referrals_page.rs
+  s_2be5519e899136::t_ccaa017c710bcb 10,343
+app/src/settings_view/scripting_page.rs
+  s_2be5519e899136::t_fde99ae7d920e6 8
+app/src/settings_view/teams_page.rs
+  s_2be5519e899136::t_da3c9163d907dc 15,1023,1431,1433
+app/src/settings_view/transfer_ownership_confirmation_modal.rs
+  s_2be5519e899136::t_740404a3145d10 1,140-142
+app/src/settings_view/update_environment_form.rs
+  s_2be5519e899136::t_0499a5e7bca76f 116-117,121,123-129,132-133,135,3002-3003,3006
+app/src/settings_view/update_environment_form_tests.rs
+  s_2be5519e899136::t_871b21def0ac82 16,363,375-376,379-428,431-447,456
+app/src/settings_view/warp_drive_page.rs
+  s_2be5519e899136::t_bb0fe09590ab7b 3
+app/src/settings_view/warpify_page.rs
+  s_2be5519e899136::t_0402b62651ce10 10,31
+app/src/suggestions/ignored_suggestions_model.rs
+  s_2be5519e899136::t_c59ce7cc4d6f68 4,83-84,116-117
+app/src/tab_configs/remove_confirmation_dialog.rs
+  s_2be5519e899136::t_7bcb26cc535404 5,157
+app/src/terminal/block_list_element.rs
+  s_2be5519e899136::t_59d74492099a18 76,2161,2367,2370,2372,2473,2487,3777,3831,3854,4055
+app/src/terminal/block_list_viewport.rs
+  s_2be5519e899136::t_2640cb4ba777ff 16,110,346,512,532,697,1553,2020-2022,2031
+app/src/terminal/cli_agent_sessions/event/mod.rs
+  s_2be5519e899136::t_3afa41f13f8e59 4,94-96
+app/src/terminal/conversation_restoration.rs
+  s_2be5519e899136::t_d82c8699cab9c4 1-144
+app/src/terminal/conversation_restoration_tests.rs
+  s_2be5519e899136::t_18b9c518c6a4be 1-2,4,8-10,226-333
+app/src/terminal/find/model.rs
+  s_2be5519e899136::t_20abac41f3e01c 78-80,88,94-96,104-105,111,116,120,610-616
+app/src/terminal/find/model/async_find.rs
+  s_2be5519e899136::t_40d5966f12b2be 135-140,144-153,155,157-165,172-177,184-219,321-326,328-332,681-683,686,688,902-905,924-926,1103-1145
+app/src/terminal/find/model/async_find_tests.rs
+  s_2be5519e899136::t_d41623cb4ae9e0 30,42
+app/src/terminal/find/model/block_list.rs
+  s_2be5519e899136::t_21aa162ca2b5cd 70,73,75
+app/src/terminal/find/model/testing.rs
+  s_2be5519e899136::t_812dcc44d2f104 10-15
+app/src/terminal/grid_renderer.rs
+  s_2be5519e899136::t_80d3b7f3c323b6 13,619,1119
+app/src/terminal/grid_size_util.rs
+  s_2be5519e899136::t_fda08b30f1ee08 5,52-54
+app/src/terminal/history.rs
+  s_2be5519e899136::t_9594fef5ef80bd 8,599
+app/src/terminal/input.rs
+  s_2be5519e899136::t_e0739bcaaff967 77,185-186,201,239,296-297,314,349,1682-1683,2126-2482,2533-2534,2625-2626,2634-2637,2720-2724,3454,3459-3460,3462,3467,3472-3473,3475,3526-3527,3575-3576,3720-3721,3857,3875-3879,4029-4138,4361,4460-4463,4508-4533,4546-4551,5387,5406,5687,5714,5792-5816,5818-5819,5821,5823,5862-5868,5893,5897-5898,5902-5908,5910,5912-5917,5924-5926,5928-5930,6105,6956-6957,11465-11467,12594,12596,13011,13079,13428,13450,13490,13657-13661,13700-13702,13734-13736,14102,14171,14194-14197,14206-14208,14292,14366-14373,14443-14457,14530-14533,14554-14557,14578-14580,14606-14608,14612-14615
+app/src/terminal/input/agent.rs
+  s_2be5519e899136::t_81d6416b6e228b 22,222,233-234
+app/src/terminal/input/common.rs
+  s_2be5519e899136::t_3bf538be5dd4c0 18,499-500
+app/src/terminal/input/inline_menu/model.rs
+  s_2be5519e899136::t_fd8b4153b62a22 133-134,155-158
+app/src/terminal/input/inline_menu/model_tests.rs
+  s_2be5519e899136::t_8589723cade128 1-32
+app/src/terminal/input/inline_menu/styles.rs
+  s_2be5519e899136::t_fa3fffea84b188 32
+app/src/terminal/input/inline_menu/view.rs
+  s_2be5519e899136::t_15c1cca2d8a5d7 11,35,314,407,419-439,441-442,444-445,482-490,508,554,602,606-613,616-617,619,626,668,686-690,695-702,879,974,987,1207-1211
+app/src/terminal/input/message_bar/common.rs
+  s_2be5519e899136::t_de8d7c28b9c5e5 510
+app/src/terminal/input/models/data_source.rs
+  s_2be5519e899136::t_877329692a7c2b 19-21,31-32,153-169,295,317,326,334,345,492,562,600-601
+app/src/terminal/input/models/model_spec_scores.rs
+  s_2be5519e899136::t_98b89d722dc46b 216
+app/src/terminal/input/models/view.rs
+  s_2be5519e899136::t_128fd12f9c1056 114-117,133-135,409,418-423,425-439
+app/src/terminal/input/repos/data_source.rs
+  s_2be5519e899136::t_ba55cb921f4d01 3-4,6-7,15-16,18-32,35-40,61-69,75,77-78
+app/src/terminal/input/repos/view.rs
+  s_2be5519e899136::t_0c367e2af2d80a 3-4,7-8,11-12,16-17,22-23,44-46,57-65,121-124,143-144,148-199
+app/src/terminal/input/skills/data_source.rs
+  s_2be5519e899136::t_7965989ffd67d9 31,72-74,81,95,99-121,151-159
+app/src/terminal/input/skills/view.rs
+  s_2be5519e899136::t_df939e8f1db835 17,36,44,47-54,140-150
+app/src/terminal/input/slash_command_model.rs
+  s_2be5519e899136::t_e2ce0c29f947fa 5,14-16,49-64,115,127-138,143-144,151,167-170,174,189,196,199-204,226,231,238-249,255-264,273-277,284,292,294,304,309-310,326,337,354-356,360,385-387,389
+app/src/terminal/input/slash_command_model_tests.rs
+  s_2be5519e899136::t_eaac41697ffd71 2,5,10,13-42,213,221,549-688
+app/src/terminal/input/slash_commands/cloud_mode_v2_view.rs
+  s_2be5519e899136::t_19604b96f22934 27,29-30,204,221
+app/src/terminal/input/slash_commands/data_source/core.rs
+  s_2be5519e899136::t_62d7004eac6ce2 1-726
+app/src/terminal/input/slash_commands/data_source/gui.rs
+  s_2be5519e899136::t_4c51759b6a1304 1-346
+app/src/terminal/input/slash_commands/data_source/mod.rs
+  s_2be5519e899136::t_15404440beafae 1-2,4,7-9,12-15
+app/src/terminal/input/slash_commands/data_source/saved_prompts.rs
+  s_2be5519e899136::t_05b5211e4626cd 17
+app/src/terminal/input/slash_commands/data_source/tui.rs
+  s_2be5519e899136::t_0a98bb104b06d2 1-126
+app/src/terminal/input/slash_commands/data_source/zero_state.rs
+  s_2be5519e899136::t_24c2a6429a7c54 12-13,16-17,20-21,28,32,44-46,48,52-53,69,73,86,90-131
+app/src/terminal/input/slash_commands/mixer.rs
+  s_2be5519e899136::t_99e9c112c2f2d8 1-47
+app/src/terminal/input/slash_commands/mod.rs
+  s_2be5519e899136::t_9e2de070d63a5f 3,13,21,68,73,91-200,290-319,345,364-369,393-398,434,1027-1029,1182,1203,1317,1375,1474,1542
+app/src/terminal/input/slash_commands/mod_tests.rs
+  s_2be5519e899136::t_8cc8ae35d633dc 1-3,40-75
+app/src/terminal/input/slash_commands/view.rs
+  s_2be5519e899136::t_797f83938ed6d7 12-13,65,74,91,93
+app/src/terminal/input_tests.rs
+  s_2be5519e899136::t_62c9613f8ab18c 39,266,314,1231-1492,3846,8222,8322-8326
+app/src/terminal/keys_settings.rs
+  s_2be5519e899136::t_7d6ce8da2aa7a4 3,204
+app/src/terminal/local_tty/event_loop.rs
+  s_2be5519e899136::t_887cce969b9c93 17,486
+app/src/terminal/local_tty/server/event_loop.rs
+  s_2be5519e899136::t_8b4ba157292111 11,207-209,214,235-237,265,281-283,292-294,312-314,320-322,325,328,331
+app/src/terminal/local_tty/server/mod.rs
+  s_2be5519e899136::t_b05f07821fdadf 36,89-91,95
+app/src/terminal/local_tty/shell.rs
+  s_2be5519e899136::t_42616fc4135059 10,190,192-195,590-594,785,806,810
+app/src/terminal/local_tty/spawner.rs
+  s_2be5519e899136::t_cd9a109bf055e6 2-3,7-8,307,315-318,320-323,335-337,340-343
+app/src/terminal/local_tty/terminal_manager.rs
+  s_2be5519e899136::t_bc2599e843db50 19,57,199,207,218,239,257,321,481-484,487,526,627
+app/src/terminal/local_tty/terminal_view_adaptor.rs
+  s_2be5519e899136::t_14197a2e579753 24,269,739
+app/src/terminal/local_tty/unix.rs
+  s_2be5519e899136::t_6ab65b63dedb26 6,27,43,102-108,111,113-120,122-129,131-150,152,154-163,166-168,170-175,177-204,287,706,779,828,1017-1094
+app/src/terminal/local_tty/windows/mod.rs
+  s_2be5519e899136::t_d9db63475c2808 18,170,437
+app/src/terminal/mock_terminal_manager.rs
+  s_2be5519e899136::t_bac9c9a38ee7de 11,52
+app/src/terminal/mod.rs
+  s_2be5519e899136::t_2d9679b9d81c4a 37
+app/src/terminal/model/alt_screen.rs
+  s_2be5519e899136::t_7efe4a8af9f545 12,383,624,628
+app/src/terminal/model/ansi/mod.rs
+  s_2be5519e899136::t_5a2892bfec9485 30,610,644,679,703,717-719,1116,1127,1143,1155-1158,1244-1246
+app/src/terminal/model/block.rs
+  s_2be5519e899136::t_110bc4d597c3ab 24,83-109,550,1382,1384,1405,1410-1411,1435,1444,1514,1516,1524-1525,1529-1532,2631,2891-2892,3111,3359,3363
+app/src/terminal/model/block_tests.rs
+  s_2be5519e899136::t_fd27810113df67 50-53,91-94,159-162,263-266,522,527-530,557-560
+app/src/terminal/model/blocks.rs
+  s_2be5519e899136::t_7719a0258ca027 49,69-74,112,117-121,353-354,385,387,675-676,927,936-937,1177,1187,1532,1539-1543,1581,1644-1645,1648,1650-1651,1654-1680,1682-1684,1686,1689,1691-1702,1704-1723,1878,1880-1882,1940,2056,2220,2238,2241,2265,2282,2306,2314,2756,2781,3311,3318,3371,3407,3426,3455,3462,3478,3600-3616,3631,3818,3916,3920,4144-4145
+app/src/terminal/model/blocks/selection.rs
+  s_2be5519e899136::t_0081a4b70a55db 954,966
+app/src/terminal/model/blocks/selection_tests.rs
+  s_2be5519e899136::t_c449aadcd88733 815-816,991-998,1004-1005,1513-1514
+app/src/terminal/model/blocks_tests.rs
+  s_2be5519e899136::t_dd34b18dfb399d 218,264,552,568,577,623,673,677,777,811-814,853-864,896-907,982-990,994,997-1000,1213,1277-1278,1325-1326,1436-1439,1480-1483,1656,1674,1690,1741,1776,1800,1803,1826,1829-1852,1878,1891,1915
+app/src/terminal/model/bootstrap.rs
+  s_2be5519e899136::t_4373ad046854c3 1,24,29
+app/src/terminal/model/early_output.rs
+  s_2be5519e899136::t_46c27679808e80 6,662
+app/src/terminal/model/early_output_tests.rs
+  s_2be5519e899136::t_fbbeed9d04bc9a 203
+app/src/terminal/model/grid/ansi_handler.rs
+  s_2be5519e899136::t_20f65f2bc47bd3 23,160,1168,1172,1176,1225,1229
+app/src/terminal/model/grid/filtering.rs
+  s_2be5519e899136::t_6048ee45128793 6,74,83,713,719
+app/src/terminal/model/grid/grid_handler.rs
+  s_2be5519e899136::t_9dae0e4233d73b 33,870-872,1441-1443
+app/src/terminal/model/grid/grid_storage.rs
+  s_2be5519e899136::t_d617f8a67fbc9e 12,554-556
+app/src/terminal/model/grid/resize.rs
+  s_2be5519e899136::t_33a9aeac50d4f9 5,203-210,216-223
+app/src/terminal/model/header_grid.rs
+  s_2be5519e899136::t_fa91537ed05076 9,934,1161,1165,1196,1225
+app/src/terminal/model/kitty.rs
+  s_2be5519e899136::t_2203806e8b71c7 11-12,767-770
+app/src/terminal/model/secrets.rs
+  s_2be5519e899136::t_fc80a3fe5c99b0 13,380-381,395-396
+app/src/terminal/model/session.rs
+  s_2be5519e899136::t_08a75315018122 5-6,29,50-56,58,61-63,65,70,72-75,77,81,248,507-509,719,746-749,1390,1433-1441,1450-1451,1454-1455,1459,1470-1471,1540
+app/src/terminal/model/session/command_executor.rs
+  s_2be5519e899136::t_8f6e238e2f8438 34-35,253
+app/src/terminal/model/session/command_executor/in_band_command_executor.rs
+  s_2be5519e899136::t_59bb196888cc46 13,229-231
+app/src/terminal/model/terminal_model.rs
+  s_2be5519e899136::t_ecdd3cfad70153 20,3004,3150-3152,3174-3176
+app/src/terminal/profile_model_selector.rs
+  s_2be5519e899136::t_c30b663e26b490 49-50,59,560,567-573,577-606,1095,1097-1099,1957-1961,1980,1989-1995,2010,2023-2024,2040,2052,2099,2326-2327
+app/src/terminal/recorder.rs
+  s_2be5519e899136::t_fa45d6cc621b5c 5-6,137-139
+app/src/terminal/remote_tty/event_loop.rs
+  s_2be5519e899136::t_859dd3fb9bb0cd 8,96,102,118,123,130-131,143,151-152,210
+app/src/terminal/remote_tty/terminal_manager.rs
+  s_2be5519e899136::t_11832db04d8846 19,90
+app/src/terminal/share_block_modal.rs
+  s_2be5519e899136::t_9f979a2778a094 11,321,446
+app/src/terminal/shared_session/mod.rs
+  s_2be5519e899136::t_9f0bd6fe3ba4bd 243,271
+app/src/terminal/shared_session/mod_tests.rs
+  s_2be5519e899136::t_ece1e185e8da4e 330,376,421
+app/src/terminal/shared_session/sharer/network.rs
+  s_2be5519e899136::t_ff200c1e683deb 42,51-52,105-110,1258-1259
+app/src/terminal/shared_session/viewer/event_loop_tests.rs
+  s_2be5519e899136::t_558215252a55f2 117-119,132-133,137-138,142-143,159-160,164-165,169-170,491
+app/src/terminal/shared_session/viewer/network.rs
+  s_2be5519e899136::t_8a9114baccd216 31,327-328,361-363,404-405,415-420,444,489-490,625
+app/src/terminal/shared_session/viewer/orchestration_viewer_model.rs
+  s_2be5519e899136::t_201de853336b86 4-7,10,37-38,53,55-56,79-85,89,93,103,313-314,429,433,442,487,490-492
+app/src/terminal/shared_session/viewer/orchestration_viewer_model_tests.rs
+  s_2be5519e899136::t_343b5f65d163de 5-8,150,1075-1078,1085-1086,1091,1136-1137,1142,1222-1223,1228,1267-1268,1273,1314,1385-1387,1399,1407
+app/src/terminal/shared_session/viewer/terminal_manager.rs
+  s_2be5519e899136::t_cc69390ac544ca 16,45,63,207,224-225,234,236,293,336-342,350,361,392,872-881,1436-1438,1704,1707,1721-1723
+app/src/terminal/shared_session/viewer/terminal_manager_tests.rs
+  s_2be5519e899136::t_84a1615c379662 62
+app/src/terminal/terminal_manager.rs
+  s_2be5519e899136::t_c0504df4c32eab 16,46-80,99,102,107-109,117,131,145
+app/src/terminal/view.rs
+  s_2be5519e899136::t_e2e8d4fd1160ea 125-127,140,225-229,242-244,544,2035-2042,3137,3144,3782-3783,4423-4424,4447-4454,5894-5896,5929-5931,6914,7411,7970-8028,9964-9966,10183-10184,10303-10304,10481-10483,10505-10507,11335,12509-12510,12808,13546-13548,14573-14575,15360,15463-15470,15510-15511,17937,17973,21031,21052,21301,24231,25128,25153-25155,25186,25892,26905-26906,27103,27695-27696,28113,28359
+app/src/terminal/view/agent_view.rs
+  s_2be5519e899136::t_9dc64a7022183e 4,79-81,111-113,147-149,166-169,274-275
+app/src/terminal/view/ambient_agent/auth_secret_selector.rs
+  s_2be5519e899136::t_f2888a6cc6234a 10
+app/src/terminal/view/ambient_agent/block/setup_command_text.rs
+  s_2be5519e899136::t_162296a1e2bad6 13,174
+app/src/terminal/view/ambient_agent/first_time_setup.rs
+  s_2be5519e899136::t_41f06976770281 8,100
+app/src/terminal/view/ambient_agent/harness_selector.rs
+  s_2be5519e899136::t_9658f152b87861 13
+app/src/terminal/view/ambient_agent/host_selector.rs
+  s_2be5519e899136::t_bf831434c46aba 9
+app/src/terminal/view/ambient_agent/mod.rs
+  s_2be5519e899136::t_497b8489fcf95f 89-111,195-203
+app/src/terminal/view/ambient_agent/model.rs
+  s_2be5519e899136::t_f38da20d30a5b2 8,68-72,364-374,998,1004,1011-1021,1201-1202,1204-1213,1383-1385,1793
+app/src/terminal/view/ambient_agent/model_selector.rs
+  s_2be5519e899136::t_d7ebaa2e916310 214,217-224,228-266
+app/src/terminal/view/ambient_agent/model_tests.rs
+  s_2be5519e899136::t_26e49e3430b5e2 6,164-208,575-692
+app/src/terminal/view/block_onboarding/onboarding_prompt_block.rs
+  s_2be5519e899136::t_2a1b3f074f759e 3,16
+app/src/terminal/view/blocklist_filter.rs
+  s_2be5519e899136::t_a81dae753915da 24
+app/src/terminal/view/docker_sandbox/mod.rs
+  s_2be5519e899136::t_2aa87fa50eba1b 10-11,178,273,307-308,325-328
+app/src/terminal/view/init_project/mod.rs
+  s_2be5519e899136::t_d88d600a0d9c21 12-13,1204-1205
+app/src/terminal/view/link_detection.rs
+  s_2be5519e899136::t_ec7cacfe0b093e 29-31,570
+app/src/terminal/view/load_ai_conversation.rs
+  s_2be5519e899136::t_eef2442936798a 11,41-43,162-181,586,588-589,599-600,615-616,656-658,971-973,1113,1134
+app/src/terminal/view/open_in_warp.rs
+  s_2be5519e899136::t_e5692f35fc5f6f 13
+app/src/terminal/view/pane_impl.rs
+  s_2be5519e899136::t_bedd5de6842375 588,592
+app/src/terminal/view/queued_prompts_panel.rs
+  s_2be5519e899136::t_1f310330e0fc49 16,84-85,87,113,120-131,147,161,209,280-283,781-791,1155,1313-1317
+app/src/terminal/view/queued_prompts_tests.rs
+  s_2be5519e899136::t_926b5fae02a771 1477-1510
+app/src/terminal/view/shared_session/cloud_conversation_continuation.rs
+  s_2be5519e899136::t_19b890a96283c5 2,17-18,33-65,150-225
+app/src/terminal/view/shared_session/cloud_conversation_continuation_tests.rs
+  s_2be5519e899136::t_5fca5c4877642d 28-29,766-909
+app/src/terminal/view/shared_session/conversation_ended_tombstone_view.rs
+  s_2be5519e899136::t_1e4c201614d82e 668-671,677
+app/src/terminal/view/shared_session/mod.rs
+  s_2be5519e899136::t_9004701afbcc0f 4
+app/src/terminal/view/shared_session/test_utils.rs
+  s_2be5519e899136::t_95d73fb91d1f5a 40
+app/src/terminal/view/shared_session/view_impl.rs
+  s_2be5519e899136::t_6b8e9b4412fad1 15,1137,1141
+app/src/terminal/view/shared_session/view_impl_tests.rs
+  s_2be5519e899136::t_ea3cab552b4e88 1,3,38,144-265,1178-1257,2348-2397
+app/src/terminal/view/ssh_remote_server_choice_view.rs
+  s_2be5519e899136::t_747c94d2a171ba 21,270-272,289-291
+app/src/terminal/view/use_agent_footer/mod.rs
+  s_2be5519e899136::t_b3b952d84234f1 28,36,768-770,856-859,867-870,1407-1409
+app/src/terminal/view/zero_state_block.rs
+  s_2be5519e899136::t_b30b41769825d7 3
+app/src/terminal/view_tests.rs
+  s_2be5519e899136::t_914d2cb8084b8c 9,25-27,42,101-134,1754,1824,1895,1909,1924-1929,1935-1949,2270
+app/src/terminal/warpify/settings.rs
+  s_2be5519e899136::t_65ba6faa1263e9 9,370-372,375,389,392,568
+app/src/terminal/writeable_pty/command_history.rs
+  s_2be5519e899136::t_0345b140155973 5,72
+app/src/terminal/writeable_pty/pty_controller.rs
+  s_2be5519e899136::t_ba626445333cf6 8-9,432
+app/src/terminal/wsl/model.rs
+  s_2be5519e899136::t_453ab6dbdfb66e 2,34-46,76-78,83,86-88
+app/src/test_util/terminal.rs
+  s_2be5519e899136::t_eceaab7c743269 174
+app/src/themes/default_themes.rs
+  s_2be5519e899136::t_17880153f2095d 264
+app/src/themes/theme_chooser.rs
+  s_2be5519e899136::t_981520195318e7 4,34
+app/src/themes/theme_creator.rs
+  s_2be5519e899136::t_d07861a089eab0 8,31-32
+app/src/tui_export.rs
+  s_2be5519e899136::t_3e3b601faca473 3-4,7-8,12-18,21-22,24,32-36,41,43-50,54,57-67,70-73,75-87,93-95,102,104,106,108,110-111,113-115
+app/src/ui_components/json_tree.rs
+  s_2be5519e899136::t_345c8d3e5cb801 264
+app/src/undo_close/mod.rs
+  s_2be5519e899136::t_29f33759444a2c 14-15,23-26
+app/src/undo_close/stack.rs
+  s_2be5519e899136::t_de4ef3fc8ca863 2,375,377
+app/src/uri/browser_url_handler.rs
+  s_2be5519e899136::t_f9261501ebe2f8 2,27,35,38,78
+app/src/uri/mod.rs
+  s_2be5519e899136::t_4ff2743d92342b 16-17,44-45,497,1291-1300,1319-1320,1330-1338
+app/src/uri/uri_tests.rs
+  s_2be5519e899136::t_89114728b5f255 789,801,814,822,826-837,848-851,862,871,907,923
+app/src/util/file/external_editor/linux.rs
+  s_2be5519e899136::t_d64e26dc617434 8,338-341,624-626
+app/src/util/file/external_editor/mac.rs
+  s_2be5519e899136::t_a361f211e12d34 11,283-285,294-297
+app/src/util/file/external_editor/windows.rs
+  s_2be5519e899136::t_2a8aaea50b0767 10,222-225
+app/src/util/repo_detection.rs
+  s_2be5519e899136::t_bdc4b838268ed5 1,18,41-44,46,50,82,86
+app/src/voltron.rs
+  s_2be5519e899136::t_a320734e878c3f 21,217
+app/src/wasm_nux_dialog.rs
+  s_2be5519e899136::t_dd30d4d3eb32ba 2,258,275
+app/src/workflows/aliases.rs
+  s_2be5519e899136::t_7b3ffa5028d53f 8,54
+app/src/workflows/info_box.rs
+  s_2be5519e899136::t_ea916d2c05ddc6 7,98-100
+app/src/workflows/workflow_view.rs
+  s_2be5519e899136::t_b8c5b45cc61c73 17,571,1581,1625,1655,1658
+app/src/workspace/action.rs
+  s_2be5519e899136::t_ac895f277b4689 411-414,747-752,830-831,1092,1185,1214-1215
+app/src/workspace/auto_handoff.rs
+  s_2be5519e899136::t_6676f13955f2c1 17,31,53-57,66,76,102-104,338-339,345
+app/src/workspace/auto_handoff_tests.rs
+  s_2be5519e899136::t_eee66ed81e8dab 12,111-123
+app/src/workspace/close_session_confirmation_dialog.rs
+  s_2be5519e899136::t_caffee0a9a8e81 3,199
+app/src/workspace/delete_conversation_confirmation_dialog.rs
+  s_2be5519e899136::t_0c1e80d711f166 3,166
+app/src/workspace/global_actions.rs
+  s_2be5519e899136::t_9fd911f7c18f0c 5,167,193
+app/src/workspace/header_toolbar_editor.rs
+  s_2be5519e899136::t_6cb7ea0ef02ec1 2,15
+app/src/workspace/mod.rs
+  s_2be5519e899136::t_3dcf557bc0f7f0 94,129-135,229-240,1436-1442
+app/src/workspace/one_time_modal_model.rs
+  s_2be5519e899136::t_57fef5fc9c31e8 11,54-58,137-141,171,209-266,371-376,378-383,385,459-462,500-503,688-713
+app/src/workspace/one_time_modal_model_tests.rs
+  s_2be5519e899136::t_3b749b7a7d70f2 4-7,218-319
+app/src/workspace/rewind_confirmation_dialog.rs
+  s_2be5519e899136::t_89137788ff5993 4,259
+app/src/workspace/view.rs
+  s_2be5519e899136::t_83c0649aec80db 8,82,212,509-512,533,671-674,1096-1100,2215,2996-3000,3335-3336,3472-3473,3850,3995-3996,4299-4302,4306,4317,4419,6303,6520,6528,7986,9617,11179,11206-11208,12017-12018,12029-12036,12310,12429-12431,12434,12745,13390,13456-13459,13579,13794-13796,13800,13808-13810,14099-14100,14102-14105,14110-14112,14147,15345-15352,15769-15777,15891-15897,15950-15952,17218,17255,17667,18202,18240-18243,18897-18925,19084,19092,19230,22795-22807,23097-23099,23516-23548,23924-23930,24901-24909,25404-25405,25728-25751,25851-25855,25859-25861,25865-25867,27506-27532,27535-27541,27544
+app/src/workspace/view/feature_intro_modal/mod.rs
+  s_2be5519e899136::t_f12a991d5ed188 1-6
+app/src/workspace/view/feature_intro_modal/view.rs
+  s_2be5519e899136::t_e05116d93a34c8 3-4,6-8,10-16,18-30,33-39,42-67,70-84,86-89,91-113,116-174,178-191,194-201,203-205,208-236,240-245,247-253,256-258,261-262,265-266,269-273,276-297,299-310,314-315,318,320,323-325,327-330,332,334-339,341-343,345-347,351-352,355-357,359-360,362-363
+app/src/workspace/view/global_search/model.rs
+  s_2be5519e899136::t_f94f4773a80f95 15,242-243
+app/src/workspace/view/left_panel.rs
+  s_2be5519e899136::t_7cecffbebff654 7,214
+app/src/workspace/view/onboarding.rs
+  s_2be5519e899136::t_bc1910954f0545 7,106-109
+app/src/workspace/view/right_panel.rs
+  s_2be5519e899136::t_b4344968c7c5b0 9,466,1372
+app/src/workspace/view/vertical_tabs.rs
+  s_2be5519e899136::t_da88ac304984c5 2311-2315,2320,3910-3933
+app/src/workspace/view/vertical_tabs_tests.rs
+  s_2be5519e899136::t_b0fd4133342902 15,639-694
+app/src/workspace/view_tests.rs
+  s_2be5519e899136::t_58c5650f538100 196,417-503,4327-4415
+app/src/workspaces/gql_convert.rs
+  s_2be5519e899136::t_df302cc9809759 5,14,34-36,40-41,53-61,70,78-79,94-151,294-296,341-343,360-362,381-384,532-534,549-552,615,738-740,757-759,776-778,874,902-904,975-978
+app/src/workspaces/update_manager.rs
+  s_2be5519e899136::t_b1780634346725 7
+app/src/workspaces/user_workspaces.rs
+  s_2be5519e899136::t_01ed3092fb2993 7,494-510,527-543
+app/src/workspaces/workspace.rs
+  s_2be5519e899136::t_2ecacfb04cb0a6 17,384-388,488,724-729,933,954-987
+crates/ai/Cargo.toml
+  s_2be5519e899136::t_29c0fbd14ba975 57
+crates/ai/src/agent/action/convert.rs
+  s_2be5519e899136::t_a77ce95f3e0e70 520
+crates/ai/src/agent/action/mod.rs
+  s_2be5519e899136::t_e303e9ecd18e6f 143,148
+crates/ai/src/api_keys.rs
+  s_2be5519e899136::t_0b4e8e892063f2 3-4,7,147-165,196-201,203,222,562-563,572,582,600-602,612-613,622,635,657-658
+crates/ai/src/api_keys_tests.rs
+  s_2be5519e899136::t_8352fc4966f5fe 16,697-788
+crates/ai/src/grok_subscription/mod.rs
+  s_2be5519e899136::t_d6d412b3a1f38a 22-23,28,91-95,97-128,132-137,139-143,206,213-214,216-219,223,226-229,232,235-238,246,249-253,255-259
+crates/ai/src/index/file_outline/native.rs
+  s_2be5519e899136::t_e6b5defb7e4e48 15,84-85,198
+crates/ai/src/index/full_source_code_embedding/codebase_index.rs
+  s_2be5519e899136::t_3e19b5ce8afbfc 17,831,1512-1514,1895-1896,1903
+crates/ai/src/index/full_source_code_embedding/manager.rs
+  s_2be5519e899136::t_1e1e4c5b4f7326 20-21,29,917-919,930,1291-1294
+crates/ai/src/index/full_source_code_embedding/merkle_tree/node.rs
+  s_2be5519e899136::t_338de6ca328398 13,273,346,541
+crates/ai/src/index/full_source_code_embedding/sync_client.rs
+  s_2be5519e899136::t_3d3f00674b6b0b 11,342-344,421-423
+crates/ai/src/paths.rs
+  s_2be5519e899136::t_af63770e6780db 2,95-98,115-118
+crates/ai/src/skills/skill_reference.rs
+  s_2be5519e899136::t_355d634cb1ce22 15-32
+crates/asset_cache/Cargo.toml
+  s_2be5519e899136::t_dc67eccc1661c2 10
+crates/asset_cache/src/lib.rs
+  s_2be5519e899136::t_5e2b5f2f9faac3 177,180,183,187-191,200,204,209-210,213-214
+crates/cloud_object_models/Cargo.toml
+  s_2be5519e899136::t_07b4644d8e33ff 34
+crates/cloud_object_models/src/cloud_environment.rs
+  s_2be5519e899136::t_fc37a77a2c3a33 184-190,219,232-240
+crates/cloud_object_models/src/cloud_environment_tests.rs
+  s_2be5519e899136::t_623a9ad5ee07b6 31,35-88
+crates/cloud_object_models/src/mcp.rs
+  s_2be5519e899136::t_00b4b6917f87cd 11,198-200,206-208,225-228
+crates/command/Cargo.toml
+  s_2be5519e899136::t_f9e231226762ce 12
+crates/command/src/blocking.rs
+  s_2be5519e899136::t_aede0b25ec4d60 10-13,517-522
+crates/command/src/windows.rs
+  s_2be5519e899136::t_6a8b598e16b14b 4-5,119,121
+crates/computer_use/Cargo.toml
+  s_2be5519e899136::t_1731e826d95457 17-18,59-61
+crates/computer_use/src/bin/use_computer.rs
+  s_2be5519e899136::t_0208609d7584ed 4,16-19,23-25,34-37,41,77-78,124-126,128,133-137,140,142,145-164,203-207,216,232,243,252,256,260-276
+crates/computer_use/src/lib.rs
+  s_2be5519e899136::t_2ae73ce6eeb2a5 6-9,16,46-53,81-99,111,115,121-122,134-140,142,144,151-154,162-165,167-168,198,236-237,239-242,296,305-309,322-383,405-408,456-467
+crates/computer_use/src/linux/mod.rs
+  s_2be5519e899136::t_ca681603dcfdf5 6-7,10,32-34,36-58,81,90
+crates/computer_use/src/linux/recording.rs
+  s_2be5519e899136::t_ef079591de9401 9,106,109-110,114-124,168-169
+crates/computer_use/src/linux/x11/mod.rs
+  s_2be5519e899136::t_a40c2ec3064492 2-7,12-15,18,22,27-33,42-44,75,88-164,176-224,228-232,234-329,334-360,367,370-382
+crates/computer_use/src/linux/x11/screenshot.rs
+  s_2be5519e899136::t_8a7404495dce3a 3-4,8-18,70-214
+crates/computer_use/src/linux/x11/seat.rs
+  s_2be5519e899136::t_b98cb894cc4eb3 1-321
+crates/computer_use/src/linux/x11/windows.rs
+  s_2be5519e899136::t_bf7fff437bbbfb 1-345
+crates/computer_use/src/mac/keycode_cache.rs
+  s_2be5519e899136::t_1fdcacf958378a 63-74,77-84
+crates/computer_use/src/mock.rs
+  s_2be5519e899136::t_3b6c57c16a97b1 1-79
+crates/computer_use/src/recording_tests.rs
+  s_2be5519e899136::t_65bd0d132c0da2 1-32
+crates/editor/Cargo.toml
+  s_2be5519e899136::t_9d0d73a3e8e8db 49,54
+crates/editor/src/content/edit.rs
+  s_2be5519e899136::t_5280f3f901d111 18,412-417,565-567,583,650
+crates/editor/src/content/selection_model.rs
+  s_2be5519e899136::t_b0c1d7f3985d46 6,204-206
+crates/editor/src/render/element/hidden_section.rs
+  s_2be5519e899136::t_e6d20b3dce6002 1-4,7-11,13-15,18,23-24,26,28-32,39-47,50-102,104-116,118-126
+crates/editor/src/render/element/mod.rs
+  s_2be5519e899136::t_b048d9f405ea69 2,14,46-47,375-386,843,923-935,1052,1065,1082,1179,1214
+crates/editor/src/render/model/char_cell_display.rs
+  s_2be5519e899136::t_310161169b53f8 1-345
+crates/editor/src/render/model/char_cell_display_tests.rs
+  s_2be5519e899136::t_f24eef0df5406e 1-294
+crates/editor/src/render/model/mod.rs
+  s_2be5519e899136::t_9da80bf142d034 20-21,27,45,70,340-362,412-450,466-470,472-485,489,498-500,504-509,523-675,699,702,704,714-718,749,1967-1969,2022-2024,2031-2035,2048,2052-2055,2157-2161,2167,2201-2204,2909-2910,2912-2927,3324,3326,3834-3842,5405-5426,5447,5471,5481,5501-5505
+crates/editor/src/render/model/mod_tests.rs
+  s_2be5519e899136::t_1c20abf61803de 1430-1474,1483,1492,1653-1673,1721,1727-1773
+crates/editor/src/selection.rs
+  s_2be5519e899136::t_0886ce635d5bb0 485-491
+crates/graphql/src/api/ai.rs
+  s_2be5519e899136::t_aafc4fa92fb83f 3,175-192,234-237
+crates/graphql/src/api/ai_tests.rs
+  s_2be5519e899136::t_6f34da1a2cf121 1-191
+crates/graphql/src/api/billing.rs
+  s_2be5519e899136::t_14ad23cc5502fe 110,195-199
+crates/graphql/src/api/queries/get_conversation_usage.rs
+  s_2be5519e899136::t_58d92325fa69a7 144-147
+crates/graphql/src/api/queries/get_workspaces_metadata_for_user.rs
+  s_2be5519e899136::t_cc4d7d901867ac 72-74,116-138
+crates/graphql/src/api/workspace.rs
+  s_2be5519e899136::t_884d7d25306d37 143,158-191
+crates/http_client/Cargo.toml
+  s_2be5519e899136::t_766dbd5c543bbd 29
+crates/http_client/src/lib.rs
+  s_2be5519e899136::t_9a6447a250e29e 23,25
+crates/http_server/Cargo.toml
+  s_2be5519e899136::t_dbae0e05e89d8c 16
+crates/http_server/src/lib.rs
+  s_2be5519e899136::t_5e079f7b94b35d 5,55-58,64
+crates/input_classifier/Cargo.toml
+  s_2be5519e899136::t_5616d9dbc6f6b2 36
+crates/input_classifier/src/onnx/mod.rs
+  s_2be5519e899136::t_8dae74ac349945 12,185,192
+crates/integration/src/bin/integration.rs
+  s_2be5519e899136::t_100ad5cdcf32d4 302,461-463
+crates/integration/src/test.rs
+  s_2be5519e899136::t_043488f3690d76 11,55
+crates/integration/src/test/code_review.rs
+  s_2be5519e899136::t_dc5d149ab52c42 9-10,654-711
+crates/integration/src/test/copy_current_path.rs
+  s_2be5519e899136::t_5cd700f65d13bb 1-47
+crates/integration/src/test/launch_configs.rs
+  s_2be5519e899136::t_e900f76ce15d06 185,315,395,474
+crates/integration/src/test/typeahead.rs
+  s_2be5519e899136::t_f8798138e65771 9,160
+crates/integration/tests/integration/ui_tests.rs
+  s_2be5519e899136::t_32375d29035a20 159,335-337
+crates/jsonrpc/Cargo.toml
+  s_2be5519e899136::t_5a0f9880e4b993 9
+crates/jsonrpc/src/service.rs
+  s_2be5519e899136::t_237d0311101a31 11,69,117,295,354
+crates/lsp/Cargo.toml
+  s_2be5519e899136::t_03ee1c96916661 34
+crates/lsp/examples/rust-lsp/main.rs
+  s_2be5519e899136::t_90567721a353c8 19,110
+crates/lsp/src/model.rs
+  s_2be5519e899136::t_849039ba113296 19-20,312
+crates/lsp/src/service.rs
+  s_2be5519e899136::t_0ebf094c522466 22,316
+crates/lsp/src/transport.rs
+  s_2be5519e899136::t_63687e6d2103d6 11,81-85
+crates/mcp/Cargo.toml
+  s_2be5519e899136::t_30388fe89fe40e 31
+crates/mcp/src/oauth.rs
+  s_2be5519e899136::t_ad46dcdc08b116 15,388-391,394-395
+crates/mcp/src/runtime.rs
+  s_2be5519e899136::t_b66f240499c0ee 19,196-198
+crates/onboarding/Cargo.toml
+  s_2be5519e899136::t_39bc4edf81cc1a 33
+crates/onboarding/src/callout/model.rs
+  s_2be5519e899136::t_43fe4b418bd92c 2,248-250,285-288,303-305
+crates/persistence/migrations/2026-07-07-000000_add_summary_to_agent_conversations/down.sql
+  s_2be5519e899136::t_c5d0d955926497 1
+crates/persistence/migrations/2026-07-07-000000_add_summary_to_agent_conversations/up.sql
+  s_2be5519e899136::t_fb01eea7293a56 1
+crates/persistence/src/model.rs
+  s_2be5519e899136::t_f6ea9699c34044 909-914,959,961-1088,1091-1113,1115-1133
+crates/persistence/src/model_tests.rs
+  s_2be5519e899136::t_4171ddd2a0caff 5,105-224
+crates/persistence/src/schema.rs
+  s_2be5519e899136::t_190233af020b1f 16
+crates/remote_server/Cargo.toml
+  s_2be5519e899136::t_45ad765d2f7117 24
+crates/remote_server/src/client/mod.rs
+  s_2be5519e899136::t_b922bdf09ea27d 32,978-981,1073-1075
+crates/remote_server/src/manager.rs
+  s_2be5519e899136::t_d06291edc23b9b 13,872,997,1038,1065,1121,1153,1191,1227,1266
+crates/repo_metadata/Cargo.toml
+  s_2be5519e899136::t_b0357704f52137 26
+crates/repo_metadata/src/entry.rs
+  s_2be5519e899136::t_bab29ebe8b9962 14,487
+crates/settings/Cargo.toml
+  s_2be5519e899136::t_57051aaba00b54 9
+crates/settings/src/lib.rs
+  s_2be5519e899136::t_4aa7f881e7bcd3 65,510-512,515,530-532,540,550,667-669,674,677
+crates/sum_tree/Cargo.toml
+  s_2be5519e899136::t_0e97e76bb14c8b 10
+crates/sum_tree/src/cursor.rs
+  s_2be5519e899136::t_93ae4b43cfc5d3 5,176,197,217
+crates/voice_input/Cargo.toml
+  s_2be5519e899136::t_1cc18c261c4ccc 9
+crates/voice_input/src/lib.rs
+  s_2be5519e899136::t_4513bc934fe024 5,15,159-165,239-241,321,391
+crates/warp_cli/src/agent.rs
+  s_2be5519e899136::t_56d19943b7c006 4,129-136,138,160-186,200-216,604-607,610,612-619,621-646
+crates/warp_cli/src/lib.rs
+  s_2be5519e899136::t_51eb87628d78df 330-343
+crates/warp_cli/src/lib_tests.rs
+  s_2be5519e899136::t_b9dc235e4d1c3d 26-164
+crates/warp_core/Cargo.toml
+  s_2be5519e899136::t_25c5ccbb0089ee 27
+crates/warp_core/src/assertions.rs
+  s_2be5519e899136::t_21051547a386ae 14,24,45,55
+crates/warp_core/src/context_flag.rs
+  s_2be5519e899136::t_6938a1dd0d14b8 8,52-54
+crates/warp_core/src/lib.rs
+  s_2be5519e899136::t_65ff2ce0cf355b 28-29,32-33
+crates/warp_core/src/paths.rs
+  s_2be5519e899136::t_205fe9e2df8a27 211-223
+crates/warp_core/src/paths_tests.rs
+  s_2be5519e899136::t_722f12264f5d48 99-111
+crates/warp_core/src/ui/external_product_icon.rs
+  s_2be5519e899136::t_d6d43227782064 12-14,27-29,42-44
+crates/warp_errors/Cargo.toml
+  s_2be5519e899136::t_1f7414411b4485 1-27
+crates/warp_errors/src/anyhow.rs
+  s_2be5519e899136::t_a9b454866aa470 3-4,6
+crates/warp_errors/src/errors_tests.rs
+  s_2be5519e899136::t_8d380c5731dc4a 5,57,64,71,78,86,92,117-148
+crates/warp_errors/src/lib.rs
+  s_2be5519e899136::t_20b352b489067c 1-277
+crates/warp_errors/src/registration.rs
+  s_2be5519e899136::t_f25cf2f4265fa1 8,10-11,16-17
+crates/warp_errors/src/reqwest.rs
+  s_2be5519e899136::t_f870adc1ec91ec 3,7-8,10-11,27-28,33-35
+crates/warp_errors/src/tokio.rs
+  s_2be5519e899136::t_df25b284cf0858 1
+crates/warp_errors/src/websocket.rs
+  s_2be5519e899136::t_d361c2b1c975e0 3,14-15
+crates/warp_features/src/lib.rs
+  s_2be5519e899136::t_f454abe10f8746 890-894,981,994,1009-1010
+crates/warp_files/src/lib.rs
+  s_2be5519e899136::t_8dff82f3c818e7 12,16-17,19,53,63-66,689-691,698,704,727-729,738,741,750-766,768,774,777-778,787,792,828-830,839,842,846,849-850,856,862,885-887,896,899,908-924,926,932
+crates/warp_files/src/lib_tests.rs
+  s_2be5519e899136::t_ef99387e0c787e 109-112
+crates/warp_graphql_schema/api/schema.graphql
+  s_2be5519e899136::t_bf718ab61b5836 616-623,628-643,2295-2297,3623-3630,3667,4473
+crates/warp_logging/Cargo.toml
+  s_2be5519e899136::t_1648990ff0ee18 15,37
+crates/warp_logging/src/native.rs
+  s_2be5519e899136::t_05d8e7e50fd705 12,144,150,481,501-506
+crates/warp_logging/src/wasm.rs
+  s_2be5519e899136::t_4f7e52d4666862 165-177
+crates/warp_search_core/Cargo.toml
+  s_2be5519e899136::t_46207ed716380f 31
+crates/warp_search_core/src/inline_menu.rs
+  s_2be5519e899136::t_c17dc5690eb725 1-167
+crates/warp_search_core/src/inline_menu_tests.rs
+  s_2be5519e899136::t_f7a91ed542876a 1-130
+crates/warp_search_core/src/lib.rs
+  s_2be5519e899136::t_3afc9bcd083f04 2
+crates/warp_search_core/src/searcher.rs
+  s_2be5519e899136::t_4ecf82f992c78f 28,544,760,777,796,802-804,828,834-836,1228,1239
+crates/warp_server_auth/Cargo.toml
+  s_2be5519e899136::t_672a417f6e70f8 26
+crates/warp_server_auth/src/auth_state.rs
+  s_2be5519e899136::t_ce945b04b48b7f 9
+crates/warp_server_client/Cargo.toml
+  s_2be5519e899136::t_d5d410db111f04 55
+crates/warp_server_client/src/auth/mod.rs
+  s_2be5519e899136::t_1541a162d9ad83 16
+crates/warp_server_client/src/graphql_helpers.rs
+  s_2be5519e899136::t_d55c563c387e9e 6,71
+crates/warp_server_client/src/network_logging.rs
+  s_2be5519e899136::t_104da34e63384e 5,82-85,97-100
+crates/warp_server_client/src/public_api.rs
+  s_2be5519e899136::t_2a1f6cc36d6b79 4
+crates/warp_server_client/src/public_api_tests.rs
+  s_2be5519e899136::t_0006d7d27958f1 5
+crates/warp_terminal/Cargo.toml
+  s_2be5519e899136::t_313f115ffb3aa9 35
+crates/warp_terminal/src/model/grid/flat_storage/index.rs
+  s_2be5519e899136::t_e25c42cc01b6dc 30,142,172-174,380,511
+crates/warp_terminal/src/shell/mod.rs
+  s_2be5519e899136::t_775e1a9c61489c 20,938-939,943-944
+crates/warp_tui/Cargo.toml
+  s_2be5519e899136::t_f36f914c8269b2 36,39,41,55,60,65,67-68,70,73,76,80-83
+crates/warp_tui/src/agent_block.rs
+  s_2be5519e899136::t_8a2f26cf30e0d6 8-9,11,15,17-20,23-24,27-29,31-32,34-35,37,44-45,53-57,61,63,111-153,161-168,171-180,185-188,192-196,198,201-203,205-310,314,318,321,334-388,394,406,416,460-484,506,508-510,514-528,540-550,553-559,561-567,573,582-588,594-610
+crates/warp_tui/src/agent_block_sections.rs
+  s_2be5519e899136::t_af984da3ced051 10-12,15-19,28-29,33-35,37-45,47-58,60,67-101,109-138,142,155-196,199,204,212-215
+crates/warp_tui/src/agent_block_tests.rs
+  s_2be5519e899136::t_6f1a25fc92021a 1,3,6,8-13,17-18,20,24,26-29,33,35-37,42-46,61-65,67-71,74-75,82,84-86,91-96,106-109,114-120,125-131,136-142,147-150,160-163,178,180-183,190-193,209-210,218-223,225,227,230,237,239-243,249-252,274,281,285-365,371-376,381-422,425-428,435-438,452-455,467-470,481,483-485,488-491,501,512,514-516,519-523,533,535-537,540-543,549,557-558,560-562,565-574,577-579,587-590,597-600,618-619,621-702,704-715,721-724,726,740-764,860-886,917-938,949-967,971
+crates/warp_tui/src/autoupdate.rs
+  s_2be5519e899136::t_77c05beca7fca7 157-180,238-239,247,259,270-284,286-288,290-294,296-314,316,321-359,386-403,424,426,440,442,445-457,464-465
+crates/warp_tui/src/clipboard.rs
+  s_2be5519e899136::t_854efd5fb4d2d3 1-47
+crates/warp_tui/src/clipboard_tests.rs
+  s_2be5519e899136::t_5702df3026baf9 1-59
+crates/warp_tui/src/conversation_selection.rs
+  s_2be5519e899136::t_19821be6978f34 1-3,7,14,22,25-29,36-90,169,176,184,186-189,197-200,263-280,303
+crates/warp_tui/src/conversation_selection_tests.rs
+  s_2be5519e899136::t_8dc27e11ec4bbf 1-3,6,13-21,28,33-34,36-40,42,46,48-56,58-59,61-63,66-72,74-93,98-112,114-121,128-133,148-153,161,196-247,257,259-263
+crates/warp_tui/src/editor_element.rs
+  s_2be5519e899136::t_aca6f8500a5bed 1-777
+crates/warp_tui/src/editor_element_tests.rs
+  s_2be5519e899136::t_777f59222e5768 1-242
+crates/warp_tui/src/inline_menu.rs
+  s_2be5519e899136::t_0054744b94f959 1-398
+crates/warp_tui/src/inline_menu_tests.rs
+  s_2be5519e899136::t_2867089c150410 1-324
+crates/warp_tui/src/input/view.rs
+  s_2be5519e899136::t_9607c0d5f09a83 6-7,15-20,28-29,31,33-34,36,41-43,45,47-53,69,105-112,466-467,474,481-482,487-488,549-551,563-565,567-570,575-577,586-590,593-595,598-603,609-611,614-615,618,622-626,640-642,646-688,690-691,693-726,736-765,769-776,781-783,786-796,802-804,806-812,913-928,952-953,955-956,959-965,969-971,977,1009-1011,1026-1029,1032-1050,1052-1063,1065-1077,1080-1087,1092-1093,1099-1111,1113-1114,1116-1117,1120-1122,1124-1125,1127-1133,1136-1137,1139-1140,1143-1152,1154-1155,1161-1165,1167-1169
+crates/warp_tui/src/input/view_tests.rs
+  s_2be5519e899136::t_ac96942c2ffa0a 6-7,9,12-14,18-19,21-22,24-26,28-37,41-116,121-122,130,136-305,314-332,349-351,376-397,595,602,686-764,817-820,824,835-836,844,865-914,998,1006,1021,1026,1029,1031,1048,1053,1055,1057,1068,1071-1325
+crates/warp_tui/src/input_mode_policy.rs
+  s_2be5519e899136::t_1c9a1ce54c3576 4-5,9-26,35
+crates/warp_tui/src/lib.rs
+  s_2be5519e899136::t_4463ad98efec8b 13,22,24,27-29,32-34,36,38-44
+crates/warp_tui/src/resume.rs
+  s_2be5519e899136::t_2f66de1425a699 1-26
+crates/warp_tui/src/resume_tests.rs
+  s_2be5519e899136::t_041b23bc44dbb0 1-15
+crates/warp_tui/src/root_view.rs
+  s_2be5519e899136::t_14e3f35a960cd8 15,43,58,61,75-78
+crates/warp_tui/src/session.rs
+  s_2be5519e899136::t_bb5e141c7c0487 10-12,15-16,19,25,27-48,55,72-98,102-106,116,119,121,130,137,161-163,180,190,201-213,220,224-227
+crates/warp_tui/src/session_tests.rs
+  s_2be5519e899136::t_8fcb6aa63f1c51 1-43
+crates/warp_tui/src/slash_commands.rs
+  s_2be5519e899136::t_624d3e0af36d76 1-492
+crates/warp_tui/src/slash_commands_tests.rs
+  s_2be5519e899136::t_80df015b9bd214 1-222
+crates/warp_tui/src/terminal_background.rs
+  s_2be5519e899136::t_ddfa8da71d095b 1-42
+crates/warp_tui/src/terminal_block.rs
+  s_2be5519e899136::t_f4b7fb9680e66a 8,12-13,17-26,32-35,38,41-43,52-63,68,75-85,88-89,94,100-106,108-117,119-139,141-178,184-193,283-290,323-326
+crates/warp_tui/src/terminal_block_tests.rs
+  s_2be5519e899136::t_5ed3801da0d9ba 1-104
+crates/warp_tui/src/terminal_session_view.rs
+  s_2be5519e899136::t_26c6428c471cd7 5,7,13-17,19-30,32,34-35,38,48-49,52,54,56-59,61-64,69,95-160,168-170,177-178,180,184-187,194-203,220-224,232-235,240,242-246,281-282,291-316,318-324,328-350,368-409,411-461,487-491,493-497,506-546,549-590,600-601,603,606-607,610-752,754-778,786-792,842-846,848-871,873,878-1012,1020-1035,1037-1042,1045-1081,1086-1107,1109-1126,1133-1368,1437-1451,1454-1455,1463-1524,1526-1539,1541-1545,1555,1566,1570-1573
+crates/warp_tui/src/terminal_session_view_tests.rs
+  s_2be5519e899136::t_10d9a303ba91c9 1-208
+crates/warp_tui/src/test_fixtures.rs
+  s_2be5519e899136::t_69110e0d28e4c3 1-76
+crates/warp_tui/src/tool_call_labels.rs
+  s_2be5519e899136::t_a18e14e7c59d95 1-692
+crates/warp_tui/src/tool_call_labels_tests.rs
+  s_2be5519e899136::t_93891f41617dde 1-194
+crates/warp_tui/src/transcript_view.rs
+  s_2be5519e899136::t_da0a147067249a 11-13,15,17-18,21-22,25-26,29-65,70-71,74,82-83,94-95,98,102-109,138,159-172,195-211,230,247-260,262-271,273-299,303-308,311,335-337,339,356-365,375-381,390,400,412,414-426,431-442
+crates/warp_tui/src/transcript_view_tests.rs
+  s_2be5519e899136::t_3d3c3030c6ca07 7-9,16,20,24,33,40-48,68-108,110-138,158,182,189-197,203-209,261,268-276,308-413,427-428
+crates/warp_tui/src/transient_hint.rs
+  s_2be5519e899136::t_81d52bb3d43c4d 1-105
+crates/warp_tui/src/transient_hint_tests.rs
+  s_2be5519e899136::t_1ebc30b2acfba9 1-101
+crates/warp_tui/src/tui_block_list_viewport_source.rs
+  s_2be5519e899136::t_4f1294ed79c78e 16-17,19,22,55,67,72-89,112-120,135,143-146,156-158,165-189,271-294,340,343-347,350-351,353-363,397,410,413
+crates/warp_tui/src/tui_block_list_viewport_source_tests.rs
+  s_2be5519e899136::t_5bede666fed8e3 5,9-13,18,21-22,25,27,62-65,72,90-150,187,189-191,200-206,217,243-342,354-378,385,413-422,425-428,434-435,441-565,567-593,602,606-610,616-621,623,625-643,647-652,659
+crates/warp_tui/src/tui_builder.rs
+  s_2be5519e899136::t_6b3165b38a3d2d 8,11,20-21,38-41,43-44,47-59,61-62,70-106,116-151,155-159,162-175,177-211,229-233,236-237,239,249-252
+crates/warp_tui/src/tui_builder_tests.rs
+  s_2be5519e899136::t_7ea4edb5062acc 1-54
+crates/warp_tui/src/tui_column_layout.rs
+  s_2be5519e899136::t_ad34617dc5f70a 1-150
+crates/warp_tui/src/tui_column_layout_tests.rs
+  s_2be5519e899136::t_6cc24fb19ebdba 1-68
+crates/warp_tui/src/tui_diff_storage.rs
+  s_2be5519e899136::t_6f82dd908f2ad4 1-322
+crates/warp_tui/src/tui_diff_storage_tests.rs
+  s_2be5519e899136::t_d4190b73922ba9 1-241
+crates/warp_tui/src/tui_file_edits_view.rs
+  s_2be5519e899136::t_ec3ed6faffc5fd 1-550
+crates/warp_tui/src/tui_file_edits_view_tests.rs
+  s_2be5519e899136::t_8adc60006273cf 1-168
+crates/warp_tui/src/tui_shell_command_view.rs
+  s_2be5519e899136::t_982e47841ba584 1-215
+crates/warp_tui/src/tui_shell_command_view_tests.rs
+  s_2be5519e899136::t_8f01a813006005 1-190
+crates/warp_tui/src/ui.rs
+  s_2be5519e899136::t_3f97c076441b7f 2,4-12,27-101,109-121,164,170,195,197-200
+crates/warp_tui/src/ui_tests.rs
+  s_2be5519e899136::t_d30eb54c34fef4 1-49
+crates/warp_tui/src/usage.rs
+  s_2be5519e899136::t_ec3eea3b403a5f 1-80
+crates/warp_tui/src/usage_tests.rs
+  s_2be5519e899136::t_83d420fe28b9eb 1-43
+crates/warp_tui/src/warping_indicator.rs
+  s_2be5519e899136::t_6e42f48199208b 1-145
+crates/warp_tui/src/warping_indicator_tests.rs
+  s_2be5519e899136::t_05db7bd415231c 1-115
+crates/warp_tui/src/zero_state.rs
+  s_2be5519e899136::t_0607df1e0380d1 1-239
+crates/warp_util/Cargo.toml
+  s_2be5519e899136::t_842ba53f5186b6 32
+crates/warp_util/src/file.rs
+  s_2be5519e899136::t_ece5c71f6946c8 5-6,19-31,33
+crates/warp_util/src/standardized_path.rs
+  s_2be5519e899136::t_b597acfe524a5d 85-96
+crates/warp_util/src/standardized_path_tests.rs
+  s_2be5519e899136::t_4bdf5a1bf7cea8 70-102
+crates/warpui/Cargo.toml
+  s_2be5519e899136::t_b2854569a54beb 32,78
+crates/warpui/src/platform/mac/app.rs
+  s_2be5519e899136::t_73e0382c5a0665 13,543-545,567-569
+crates/warpui/src/platform/mac/fonts.rs
+  s_2be5519e899136::t_ccfd0d14e760fa 3,10,14,26,190,238-264,274,402-406,411-412,486-492,495,505,508-509,682-685
+crates/warpui/src/platform/mac/fonts_tests.rs
+  s_2be5519e899136::t_e2af5ba3fc200e 1-65
+crates/warpui/src/platform/mac/rendering/metal/renderer.rs
+  s_2be5519e899136::t_7a1b05391a87af 25,779-782,1065
+crates/warpui/src/platform/windows/mod.rs
+  s_2be5519e899136::t_e03895431f9ed0 4,35
+crates/warpui/src/rendering/wgpu/resources.rs
+  s_2be5519e899136::t_104d51e9688033 15,418-420,446-448,581-583,591-593,605-607
+crates/warpui/src/windowing/winit/delegate.rs
+  s_2be5519e899136::t_f5272a3b7ae97c 18,205-206,232,239,452-454
+crates/warpui/src/windowing/winit/delegate/global_hotkey.rs
+  s_2be5519e899136::t_1d7ceb23487c4f 10,40,52
+crates/warpui/src/windowing/winit/event_loop/mod.rs
+  s_2be5519e899136::t_b07b328182058f 14,621,1640-1644,1876-1878,1888-1889
+crates/warpui/src/windowing/winit/fonts.rs
+  s_2be5519e899136::t_c87298ec230785 57,66,73
+crates/warpui/src/windowing/winit/linux/zbus/desktop_settings.rs
+  s_2be5519e899136::t_b6ae1a0c96f75c 8,65-73,78-83
+crates/warpui/src/windowing/winit/window.rs
+  s_2be5519e899136::t_8a5bd12de843c0 20,134,847,950,1477,1515-1517
+crates/warpui_core/Cargo.toml
+  s_2be5519e899136::t_e797e1e6ccd108 26,100-105
+crates/warpui_core/src/assets/asset_cache.rs
+  s_2be5519e899136::t_c3692637918625 16,556,569-570
+crates/warpui_core/src/async/native/executor.rs
+  s_2be5519e899136::t_f117685ad78ef4 13,201
+crates/warpui_core/src/core/app.rs
+  s_2be5519e899136::t_9b916c841a8821 22,255,1369-1372,1406-1409,1505-1508,1948,1995,2102,2523,2665,2794,2825,3561,3716,4922-4932
+crates/warpui_core/src/core/model/context.rs
+  s_2be5519e899136::t_148818269318fa 10,304,449,458,545
+crates/warpui_core/src/core/tui_view_tests.rs
+  s_2be5519e899136::t_d42a19497e3c7b 9,161
+crates/warpui_core/src/core/view/context.rs
+  s_2be5519e899136::t_fe4fd20df802c3 12,533,608,617,683
+crates/warpui_core/src/elements.rs
+  s_2be5519e899136::t_7851d1239dfe5e 6-8
+crates/warpui_core/src/elements/animation.rs
+  s_2be5519e899136::t_5b9bb456d49d7f 1-114
+crates/warpui_core/src/elements/animation_tests.rs
+  s_2be5519e899136::t_e566486bc27f7b 1-57
+crates/warpui_core/src/elements/gui/event_handler.rs
+  s_2be5519e899136::t_d68d2a41310dc1 4,254-256
+crates/warpui_core/src/elements/gui/flex/mod.rs
+  s_2be5519e899136::t_4c51a7d81772c8 7,213-216,280-283
+crates/warpui_core/src/elements/gui/formatted_text_element.rs
+  s_2be5519e899136::t_bd5eedfa03e5de 15,1609-1614
+crates/warpui_core/src/elements/gui/hoverable.rs
+  s_2be5519e899136::t_9604169b3b161a 115-121
+crates/warpui_core/src/elements/gui/image.rs
+  s_2be5519e899136::t_146371f7a288cc 6,12,292-307,337-340,351
+crates/warpui_core/src/elements/gui/resizable.rs
+  s_2be5519e899136::t_06c443bcb6b2d6 7,336-342
+crates/warpui_core/src/elements/gui/shimmering_text.rs
+  s_2be5519e899136::t_e911a7dc92cfc0 13,15,135-136,140-142
+crates/warpui_core/src/elements/shimmer_math.rs
+  s_2be5519e899136::t_e7b221ce7420f3 1-9,12-14,49-89
+crates/warpui_core/src/elements/shimmer_math_tests.rs
+  s_2be5519e899136::t_eab31a13891268 1-56
+crates/warpui_core/src/elements/tui/animated.rs
+  s_2be5519e899136::t_8ff6a5e42f9d6b 1-106
+crates/warpui_core/src/elements/tui/animated_tests.rs
+  s_2be5519e899136::t_29513b96b2427d 1-56
+crates/warpui_core/src/elements/tui/child_view.rs
+  s_2be5519e899136::t_96165e1c4f510d 21,83,87
+crates/warpui_core/src/elements/tui/child_view_tests.rs
+  s_2be5519e899136::t_bbb0d97c1a8829 3,17
+crates/warpui_core/src/elements/tui/clipped.rs
+  s_2be5519e899136::t_ce5143ac5f9864 10,79,101
+crates/warpui_core/src/elements/tui/clipped_tests.rs
+  s_2be5519e899136::t_c0f4cb3d9f3c56 5,7-8,16,20,57,59,68-69,76-77,98
+crates/warpui_core/src/elements/tui/collapsible.rs
+  s_2be5519e899136::t_6fb5c63fff925d 1-2,5-7,21-35,38-39,41,44-47,51
+crates/warpui_core/src/elements/tui/collapsible_tests.rs
+  s_2be5519e899136::t_e5a4a6569fcb1e 11,21,24,33-34,36-38,44-52
+crates/warpui_core/src/elements/tui/constrained_box.rs
+  s_2be5519e899136::t_0ebbb5201fdaf4 18,87,91
+crates/warpui_core/src/elements/tui/container.rs
+  s_2be5519e899136::t_14a77d8cf1915d 29,205,225
+crates/warpui_core/src/elements/tui/container_tests.rs
+  s_2be5519e899136::t_d6ff4f6c9d7411 7,9-10,91,171,173,186
+crates/warpui_core/src/elements/tui/event.rs
+  s_2be5519e899136::t_f9e8db7d1cc837 31-33,82
+crates/warpui_core/src/elements/tui/event_handler.rs
+  s_2be5519e899136::t_a63c2cc0c76ee9 23,72,76
+crates/warpui_core/src/elements/tui/flex.rs
+  s_2be5519e899136::t_d0d799e770268d 15-26,44,46,58-60,72,108-116,125-132,157-228,251-253,258,262,270-273,276,282,295-298,301,316-325,331-335,338,346-348,353,361-363,365-366,388-390,392,399,402
+crates/warpui_core/src/elements/tui/flex_tests.rs
+  s_2be5519e899136::t_6e08b59375be47 7,9-10,12,185,188-189,192-274,293
+crates/warpui_core/src/elements/tui/geometry.rs
+  s_2be5519e899136::t_d407a868992675 15-17
+crates/warpui_core/src/elements/tui/hoverable.rs
+  s_2be5519e899136::t_38ed6ab67d5ba5 20-26,32,55-57,82,86,121-143,145
+crates/warpui_core/src/elements/tui/hoverable_tests.rs
+  s_2be5519e899136::t_59e035c523eb46 6-7,22-28,76,81-83,89,95-96,105-117,120,129-138,144-188,241
+crates/warpui_core/src/elements/tui/mod.rs
+  s_2be5519e899136::t_2fedeed2ccfcf8 24-27,30,45-46,50,62-64,68-72,79-102,115-177,214-216,219,226,277,324,326-350
+crates/warpui_core/src/elements/tui/scrollable.rs
+  s_2be5519e899136::t_b327c6ca634f23 13,78,82
+crates/warpui_core/src/elements/tui/selectable.rs
+  s_2be5519e899136::t_af0d075c1ab806 1,3-6,8-10,12,14-19,21-24,26-27,29-31,33-34,36-42,45-56,58-62,64-71,73-80,82-84,88-95,98-112,114-118,120-124,126-185,189-196,198-204,206,208-220,222-226,228-235,237-238,241-296,298-331,333-337,339-347,352-384,386-425
+crates/warpui_core/src/elements/tui/selectable/cells.rs
+  s_2be5519e899136::t_a5c50882d2ba0c 1,3,5,7-12,14-21,23-33,35-44,46,49-53,55,57-69,71,73-74,76-82,84-85
+crates/warpui_core/src/elements/tui/selectable/state.rs
+  s_2be5519e899136::t_62742f867d50c6 1-280
+crates/warpui_core/src/elements/tui/selectable/state_tests.rs
+  s_2be5519e899136::t_c0bd6a7e68028f 1-76
+crates/warpui_core/src/elements/tui/shimmering_text.rs
+  s_2be5519e899136::t_31a3179229faf8 1-116
+crates/warpui_core/src/elements/tui/shimmering_text_tests.rs
+  s_2be5519e899136::t_12f9f3e97a56a4 1-78
+crates/warpui_core/src/elements/tui/text.rs
+  s_2be5519e899136::t_25ebd380abb95e 1-2,5-9,26-28,31-34,38-41,49-55,57,77,83-112,115,131,143
+crates/warpui_core/src/elements/tui/text_tests.rs
+  s_2be5519e899136::t_07ed83f510d9b0 4,88,105-159
+crates/warpui_core/src/elements/tui/viewported_list.rs
+  s_2be5519e899136::t_2f19f1e1cb373b 8-9,12,14-16,33-42,44-50,52,55,57-60,65,70,85-209,241-245,250,253-267,277-371,383,399,429,439,455,461-462,480-486,519-530,533,553-554,556-560,564-693,711-712,715
+crates/warpui_core/src/elements/tui/viewported_list_tests.rs
+  s_2be5519e899136::t_7b4c66345ff2e7 4-5,11-13,16,41-42,68-88,112-113,118-197,300-336,393-832,882-906,978,980,994,1040,1042,1063
+crates/warpui_core/src/integration/capture_recorder.rs
+  s_2be5519e899136::t_54c3827bee69c6 4-5,8-9,319-321,324,359,365
+crates/warpui_core/src/integration/driver.rs
+  s_2be5519e899136::t_5d432d3ef03862 22,25,443-446,474,483-487,508-513,515,517
+crates/warpui_core/src/integration/mod.rs
+  s_2be5519e899136::t_3e32e0291053fc 23,219
+crates/warpui_core/src/integration/step.rs
+  s_2be5519e899136::t_792ff803ad18b2 8,704-706,900-905,966-968,974-976
+crates/warpui_core/src/keymap/matcher_tests.rs
+  s_2be5519e899136::t_0a9907c35ec79b 3,253-324
+crates/warpui_core/src/presenter/tui.rs
+  s_2be5519e899136::t_4d3b0e1c9e6403 41-42,44-45,58-61,70,96-100,122,158-166,171,249-251,261,268-272
+crates/warpui_core/src/presenter/tui_tests.rs
+  s_2be5519e899136::t_2debb4b75722d7 7-12,15-17,54,105,121,175,220,230,235-254,303-324,415-508
+crates/warpui_core/src/runtime/event_conversion.rs
+  s_2be5519e899136::t_6a7bb413d05e32 22-23,25-27
+crates/warpui_core/src/runtime/event_conversion_tests.rs
+  s_2be5519e899136::t_7aacd92a66bf8e 86-95
+crates/warpui_core/src/runtime/mod.rs
+  s_2be5519e899136::t_dc7c50f9489677 33-34,42,47,52-55,105-108,116-118,143,195-197,238,255-270,286-292,297,395-397,435-440,447,449-450,462,482,513,519-561,571-589,595-596,605
+crates/warpui_core/src/runtime/mod_tests.rs
+  s_2be5519e899136::t_aa5329e575169e 12,35,330-349
+crates/warpui_core/src/runtime/renderer.rs
+  s_2be5519e899136::t_71cc96bf3ea140 24,86-127
+crates/warpui_core/src/runtime/renderer_tests.rs
+  s_2be5519e899136::t_e9a6142a2f391f 1-2,5,122-261
+crates/warpui_core/src/runtime/terminal_probe.rs
+  s_2be5519e899136::t_5ccf14b6491fe9 1-304
+crates/warpui_core/src/runtime/terminal_probe_tests.rs
+  s_2be5519e899136::t_0f9881b684aec1 1-148
+crates/warpui_core/src/text/mod.rs
+  s_2be5519e899136::t_b20156e092f506 15-20
+crates/warpui_core/src/ui_components/segmented_control.rs
+  s_2be5519e899136::t_95e25e9fa60a46 6,163
+crates/warpui_extras/Cargo.toml
+  s_2be5519e899136::t_536d32cb7dbffa 18
+crates/warpui_extras/src/secure_storage/linux.rs
+  s_2be5519e899136::t_fe0f7a80fe5f98 15,74-82,114
+crates/warpui_extras/src/user_preferences/registry_backed.rs
+  s_2be5519e899136::t_e26383f9529801 3,29-32
+crates/watcher/Cargo.toml
+  s_2be5519e899136::t_1b483783f28864 10
+crates/watcher/src/lib.rs
+  s_2be5519e899136::t_a45d7bcd133a8b 9,20,161-163,167,169
+script/bootstrap
+  s_2be5519e899136::t_248b786c096a81 31,36-37,67-72,118-120
+script/install_cargo_binstall
+  s_2be5519e899136::t_7baa6eef2876c1 12
+script/linux/bootstrap
+  s_2be5519e899136::t_b8ebab58b4d804 19
+script/macos/bootstrap
+  s_2be5519e899136::t_569c43f6738ea6 58-61,85
+script/run-tui
+  s_2be5519e899136::t_b4a305cd365667 35-37,41,64-78,86-117,122-124,136-143
+script/update_plist
+  s_2be5519e899136::t_07e56b260120c7 266-268
+script/windows/bootstrap.ps1
+  s_2be5519e899136::t_c3feaff6528717 171-177
+skills-lock.json
+  s_2be5519e899136::t_d3ec255e0c4fbd 58-63,104,128
+specs/CODE-1800/PRODUCT.md
+  s_2be5519e899136::t_3c3055c9603209 1-79
+specs/CODE-1800/TECH.md
+  s_2be5519e899136::t_2302fb86b6409c 1-65
+specs/CODE-1805/PRODUCT.md
+  s_2be5519e899136::t_97f42b72cff195 1-63
+specs/CODE-1805/TECH.md
+  s_2be5519e899136::t_7d0aee41f27645 1-111
+specs/CODE-1806/PRODUCT.md
+  s_2be5519e899136::t_1145d0da988349 1-71
+specs/CODE-1806/TECH.md
+  s_2be5519e899136::t_4e2c6f8330b903 1-176
+specs/CODE-1815/TECH.md
+  s_2be5519e899136::t_549d261e02ee55 1-122
+specs/CODE-1816/TECH.md
+  s_2be5519e899136::t_7ac1f3ce1d2ef9 1-82
+specs/CODE-1820/PRODUCT.md
+  s_2be5519e899136::t_4072f5d1000b12 1-102
+specs/CODE-1820/TECH.md
+  s_2be5519e899136::t_1a61a526568619 1-247
+specs/CODE-1828/TECH.md
+  s_2be5519e899136::t_8a1c218a6c45d6 1-74
+specs/GH11622/product.md
+  s_2be5519e899136::t_f244ab8ae9630e 1-83
+specs/GH11622/tech.md
+  s_2be5519e899136::t_300a7c804438c4 1-109
+specs/surface-agnostic-file-edit-execution/TECH.md
+  s_2be5519e899136::t_c9ea8940ae461c 1-137
+specs/tui-editor-element/TECH.md
+  s_2be5519e899136::t_4a45494d902bd5 1-129
+specs/tui-flex-alignment/TECH.md
+  s_2be5519e899136::t_bb63d4aeac0dff 1-42
+specs/tui-input-view/TECH.md
+  s_2be5519e899136::t_402f20d155977a 8-15,62,66,68,204
+specs/tui-transcript-view/TECH.md
+  s_2be5519e899136::t_58a5dabf50f1f1 52,58-59,65,69
+specs/x11-background-computer-use/TECH.md
+  s_2be5519e899136::t_6bfe47b634ebcc 1-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "47c52b4da090fbab390b6eab83fd37e68168eb26",
+  "prompts": {},
+  "sessions": {
+    "s_2be5519e899136": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "902571da-d710-4130-b8f6-9851aff7fb3f",
+        "model": "unknown"
+      },
+      "human_author": "“JP” <punshon.jm@fastmail.com>"
+    }
+  }
+}
